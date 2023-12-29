@@ -94,7 +94,7 @@
 [ungoogled-chromium](https://ungoogled-software.github.io/) :c-pc: - Chromium fork that removes Google integration
 
 ## Cloud
-[Nextcloud](https://nextcloud.com/) - Selfhostable cloud service
+[Nextcloud](https://nextcloud.com/) :c-web: :c-desktop: :c-mobile: - Selfhostable cloud service
 
 ## E-mail
 ### Providers
