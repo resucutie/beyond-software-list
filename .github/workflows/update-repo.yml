@@ -1,0 +1,26 @@
+name: Trigger website repo workflow
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Trigger repo
+        uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: abUwUser
+          repo: beyond-software
+          github_token: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
