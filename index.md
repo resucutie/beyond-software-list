@@ -83,7 +83,7 @@
 [KeePassXC](https://keepassxc.org/) :c-pc: | [KeePassDX](https://www.keepassdx.com/) :c-android: | [Strongbox](https://apps.apple.com/us/app/strongbox-password-manager/id897283731) :c-macos: :c-ios: - KeePass-compatible local password managers
 
 ## VPN
-[Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: - Secure VPN provider
+[Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-paid: :c-proprietary: - Secure VPN provider
 
 
 
