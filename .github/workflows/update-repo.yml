@@ -25,3 +25,4 @@ jobs:
           repo: beyond-software
           github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           workflow_file_name: gh-actions-deploy.yml
+          ref: rewrite
