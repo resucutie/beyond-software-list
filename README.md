@@ -1,4 +1,9 @@
 <p align="center"><img src="icon.svg"/></p>
+<p align="center">
+    <img src="https://img.shields.io/github/issues/abUwUser/beyond-software-list?style=for-the-badge&color=FF8702"/>
+    <img src="https://img.shields.io/github/issues-pr/abUwUser/beyond-software-list?style=for-the-badge&color=FF8702"/>
+    <a href="https://github.com/abUwUser/beyond-software"><img src="https://img.shields.io/badge/visit%20the%20website%20repo-FF8702?style=for-the-badge"/></a>
+</p>
 <h1 align="center">Beyond Software</h1>
 <p align="center">
     A collective list of reliable and trustworthy software and resources for a better user expierence.<br>
