@@ -1,33 +1,101 @@
 # Compatibility and Emulation
-## Android
-[Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
-[Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/) :c-windows: - Android counterpart of Windows Subsystem for Linux.  
-- [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSALocal) :c-windows: - Script to install WSA with Magisk and GApps
-
 ## Consoles
-### Any
-[RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines
+### Any/Multiple
+[RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines  
+[MAME](https://wiki.mamedev.org/index.php/SDL_Supported_Platforms) :c-pc: - Multi system emulator with focus on Arcades, although it contains multiple home and portable consoles.  
+[ares](https://ares-emu.net/) :c-pc: - Multi system emulator with a more focus on accuracy and preservation  
+[BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
+[Mesen](https://www.mesen.ca/) :c-pc: - 8 bit and 16 bit multi system emulator 
 
-### GameCube / Wii
+### Nintendo
+
+[FCEUX](https://fceux.com/web/home.html) :c-pc: :c-web: - NES and Famicom emulator based on the 
+- [FCE Ultra GX](https://github.com/dborth/fceugx) :c-console: - Fork of FCEUX for the Wii and GameCube   
+###### NO-PARAGRAPH
+[puNES](https://github.com/punesemu/puNES) :c-windows: :c-linux: - Highly accurate NES emulator  
+
+[Sameboy](https://sameboy.github.io/) :c-pc: - Friendly and powerful GameBoy emulator containing most standard features found in top emulators  
+[GBCC](https://gbcc.dev/) :c-pc: :c-android: - Cross platform GameBoy emulator with a focus on accuracy
+
+[bsnes](https://github.com/bsnes-emu/bsnes) :c-pc: - SNES emulator which focuses on performance, features  and ease of use  
+[Snes9X](https://github.com/snes9xgit/snes9x) :c-pc: - Most well known SNES emulator
+
+[Muphen64Plus](https://www.mupen64plus.org/) :c-pc: :c-cli: - Multi-platform Nintendo 64 emulator
+- [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG) :c-windows: :c-linux: - Frontend for Muphen64Plus
+- [Muphen64Plus FZ](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita) :c-android: - Port of Muphen64Plus for Android  
+###### NO-PARAGRAPH
+[simple64](https://simple64.github.io/) :c-windows: :c-linux: - Easy to use N64 emulator that bundles Muphen64Plus, Parallel RDP and its own frontend  
+[Project64](https://www.pj64-emu.com/) :c-windows: - An old but well known Nintendo 64 emaultion software
+
+[mGBA](https://mgba.io/) :c-pc: :c-console: - Most well known and advanced GBA emulator.
+- [mGBA_Android](https://github.com/huhao1987/mGBA_Android) :c-android: - Unofficial port of mGBA for Android
+
+[melonDS](https://melonds.kuribo64.net/) :c-pc: - Nintendo DS and DSi emulator
+- [Unofficial melonDS Android port](https://github.com/rafaelvcaetano/melonDS-android) :c-android: - Port of melonDS for android
+###### NO-PARAGRAPH
+[DeSmuME](https://desmume.org/) :c-pc: - Nintendo DS emulator with the most accurate emulation  
+[DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic&hl=en) :c-android: :c-paid: - Mobile focused paid Ninendo DS emulator
+
 [Dolphin](https://dolphin-emu.org/) :c-pc: :c-android: :c-console: - Powerful Gamecube and Wii emulator
-- [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) :c-ios: - Port of Dolphin for iOS
+- [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) :c-ios: - Port of Dolphin for iOS  
+###### NO-PARAGRAPH
+[Nintendon't](https://github.com/FIX94/Nintendont) :c-console: - Compatibility layer for running GameCube games on the Wii and Wii U from the Wii's built in compatibility with GameCube systems
 
-[Nintendon't](https://github.com/FIX94/Nintendont) :c-console: - Compatibility layer for running GameCube games on the Wii and Wii U
+[Citra](https://citra-emu.org/) :c-pc: :c-android: - 3DS emulator
 
-### WiiU
-[Cemu](https://cemu.info/) :c-pc: - Most accurate WiiU Emulator avaiable.  
-[Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu
+[Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator avaiable.  
+[Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu, although not as advanced as the counterpart.
 
-### Switch
 [Yuzu](https://yuzu-emu.org/) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator from the creators of Citra  
 [Ryujinx](https://ryujinx.org/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance
+
+### Play Station
+TODO: PS1
+
+TODO: PS2
+
+[PPSSPP](https://www.ppsspp.org/) :c-pc: :c-mobile: :c-vr: - PSP emulator written in C++
+
+TODO: PS3
+
+TODO: PSVita
+
+### Sega
+TODO: Master System
+
+TODO: Sega Gensis
+
+TODO: Sega Saturn
+
+TODO: Dreamcast
+
+### Xbox
+TODO: Xbox (OG)
+
+TODO: Xbox 360
+
+### Others
+
+[DOSBox](https://www.dosbox.com/) :c-pc: - DOS emulator that can run on any system
+
+TODO: Comodore emulators
+
+## Compatibility layers
+TODO: Wine and Proton
+
+[Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system.  
+[Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
+
+[KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - FOSS compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME
 
 ## System virtualization
 [VirtualBox](https://www.virtualbox.org/) :c-pc: - Cross platform virtualization tool  
 [QEMU](https://www.qemu.org/) :c-pc: :c-cli: - Command-line generic and open source machine emulator and virtualizer
 - [virt-manager](https://virt-manager.org/) :c-linux: - Linux frontend for QEMU
 
-[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) :c-windows: - Executes Linux systems inside Windows.
+[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) :c-windows: - Executes Linux systems inside Windows.  
+[Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/) :c-windows: - Android counterpart of Windows Subsystem for Linux.  
+- [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSALocal) :c-windows: - Script to install WSA with Magisk and GApps
 
 
 
@@ -173,15 +241,20 @@ Those are applications and resources that their functionality is directred relat
 ## Consoles (Homebrew)
 --Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust first the text based guide--
 ### Nintendo
-[CFW's DSi guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii  
-[RiiConnect24's Wii guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii  
-[Nintendo Homebrew's 3ds guide](https://3ds.hacks.guide/) :c-resource: - Guide for homebrewing the 3ds  
-[Nintendo Homebrew's WiiU guide](https://wiiu.hacks.guide/) :c-resource: - Guide for homebrewing the WiiU  
-[Nintendo Homebrew's Switch guide](https://nh-server.github.io/switch-guide/) :c-resource: - Guide for homebrewing the Nintendo Switch  
+[CFW's DSi guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii
+
+[RiiConnect24's Wii guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii
+
+[Nintendo Homebrew's 3ds guide](https://3ds.hacks.guide/) :c-resource: - Guide for homebrewing the 3ds
+
+[Nintendo Homebrew's WiiU guide](https://wiiu.hacks.guide/) :c-resource: - Guide for homebrewing the WiiU
+
+[Nintendo Homebrew's Switch guide](https://nh-server.github.io/switch-guide/) :c-resource: - Guide for homebrewing the Nintendo Switch
 
 ### Sony
-[PSPunk's PSP guide](https://www.pspunk.com/psp-cfw/) :c-resource: - Guide for homebrewing the PSP  
-[hacks.guide's Vita guide](https://vita.hacks.guide/) :c-resource: - Guide for homebrewing the PS Vita  
+[PSPunk's PSP guide](https://www.pspunk.com/psp-cfw/) :c-resource: - Guide for homebrewing the PSP
+
+[hacks.guide's Vita guide](https://vita.hacks.guide/) :c-resource: - Guide for homebrewing the PS Vita
 
 ## iOS
 ### Application stores
@@ -236,7 +309,7 @@ Those are applications and resources that their functionality is directred relat
 
 ## Media management
 ### Content downloader
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-cli: - Youtube-dl fork that can download videos from YouTube  
+[yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
 [Cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
 [Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos
 
@@ -315,14 +388,25 @@ Merged entries:
 :c-windows: `:c-windows:` - Runs on Windows  
 :c-macos: `:c-macos:` - Runs on MacOS  
 :c-linux: `:c-linux:` - Runs on Linux  
-:c-cli: `:c-cli` - Application only avaiable in CLI form  
+:c-cli: `:c-cli` - Is a command line only application  
 :c-chrome: `:c-chrome:` - Runs on Chrome  
 :c-firefox: `:c-firefox:` - Runs on Firefox  
+:c-vr: `:c-vr:` - Avaiable on VR consoles  
 :c-proprietary: `:c-proprietary` - Is proprietary  
 :c-ads: `:c-ads:` - Contains ads  
 :c-freemium: `:c-freemium:` - Is a program that contains a Freemium payment model  
 :c-paid: `:c-paid:` - Is a paid program  
 :c-resource: `:c-resource:` - Resource to read  
+
+## Formatting resources
+
+`*italic*` - *italic*  
+`**bold**` - **bold**  
+`***bold and italic***` - ***bold and italic***  
+`~~strikethrough~~` - ~~strikethrough~~  
+`--small--` - --small--
+`###### NO-MARGIN-CHANGES` - Disables lists from merging with the text  
+`###### NO-PARAGRAPH` - Makes paragraphs not render as paragraphs  
 
 ## Thanks
 Thanks to:
