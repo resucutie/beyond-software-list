@@ -327,4 +327,4 @@ Merged entries:
 ## Thanks
 Thanks to:
 - [FontAwesome](https://fontawesome.com/) and [Material Icons](https://fonts.google.com/icons) for providing the icons
-- 
+- [Volpeon](https://volpeon.ink/) for the original [Blobfox](https://volpeon.ink/emojis/blobfox/) in a box icon (we modified it a lil bit to change the icon inside da box :3)
