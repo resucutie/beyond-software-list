@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Website bug report
+    url: https://github.com/abUwUser/beyond-software/issues/new/choose
+    about: Create a bug report to help us
