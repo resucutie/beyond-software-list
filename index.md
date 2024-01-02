@@ -242,7 +242,7 @@ Those are applications and resources that their functionality is directred relat
 
 ### File converter
 [FFmpeg](https://ffmpeg.org/) :c-pc: :c-cli: - Powerful CLI utility for video manipulation
-- TODO: Add FFmpeg frontends
+- [HandBrake](https://handbrake.fr/) :c-pc: - Open source video transcoder powered by FFmpeg libraries
 
 ## OCR Scanners
 [Text-Grab](https://github.com/TheJoeFin/Text-Grab) :c-windows: - OCR utility for Windows 10/11 which makes all visible text available to be copied.  
