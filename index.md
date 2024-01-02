@@ -270,7 +270,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 ## Sections in need for contributions
 [System resources > Consoles (Homebrew)](#consoles-homebrew) - Needs more guides  
 [System resources -> iOS](#ios) - Needs more items and applications  
-[Utilities -> Media Management -> File converter](#file-converter) - Needs FFmpeg frontends  
+[Utilities -> Media Management -> File converter](#file-converter) - Needs more FFmpeg frontends  
 [Privacy and Security](#privacy-and-security) - Needs more entires  
 [Compatibility and Emulation](#compatibility-and-emulation) - Needs more emulators  
 
