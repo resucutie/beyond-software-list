@@ -7,6 +7,16 @@
 [BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
 [Mesen](https://www.mesen.ca/) :c-pc: - 8 bit and 16 bit multi system emulator  
 
+### Atari
+
+[Stella](https://stella-emu.github.io/) :c-pc: - Atari 2600 emulator
+
+[Atari800](https://atari800.github.io/) :c-pc: - Atari 5200 emulator
+
+[A7800](https://github.com/7800-devtools/a7800) :c-windows: - Atari 7800 emulator
+
+[BigPEmu](https://www.richwhitehouse.com/jaguar/index.php) :c-windows: :c-proprietary: - Atari Jaguar emulator
+
 ### Nintendo
 
 [FCEUX](https://fceux.com/web/home.html) :c-pc: :c-web: - NES and Famicom emulator based on the 
@@ -72,19 +82,21 @@
 
 [Mednafen](https://mednafen.github.io/) :c-windows: :c-linux: - Multi system emulator that has Sega Saturn emulation. [Packages are avaiable for Linux systems](https://pkgs.org/download/mednafen)
 
-[Flycast](https://github.com/flyinghead/flycast) :c-pc: :c-mobile: :c-console: - Open source Dreamcast emulator that also has a great compatibility with its arcade variants
+[Flycast](https://github.com/flyinghead/flycast) :c-pc: :c-mobile: :c-console: - Open source Dreamcast emulator that also has a great compatibility with its arcade variants  
 [Redream](https://redream.io/) :c-pc: :c-android: :c-freemium: :c-proprietary: - Easy to use Dreamcast emulator, although proprietary. Contains less features than Flycast
 
 ### Xbox
-TODO: Xbox (OG)
+[xemu](https://xemu.app/) :c-pc: - Most accurate Xbox OG emulator avaiable
 
-TODO: Xbox 360
+[Xenia](https://github.com/xenia-project/xenia) :c-windows: - Xbox 360 emulator
 
 ### Others
 
-[DOSBox](https://www.dosbox.com/) :c-pc: - DOS emulator that can run on any system
+[86Box](https://86box.net/) :c-pc: - DOS emulator that can run on any system
 
-TODO: Comodore emulators
+[4DO](https://fourdo.com/) :c-windows: - 3DO emulator
+
+[Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) :c-resource: - Emulator driven wiki
 
 ## Compatibility layers
 TODO: Wine and Proton
