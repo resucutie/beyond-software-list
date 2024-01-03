@@ -1,5 +1,16 @@
 # Compatibility and Emulation
-## Consoles
+## Compatibility layers
+[Wine](https://www.winehq.org/) :c-macos: :c-linux: :c-android: - Compatibility layer to run Windows programs on Linux and other POSIX systems. Compatibility isn't perfect and unwanted behavior is expected, and it is recommended to search for alternatives to already exisitng programs than to run them under Wine
+- [Bottles](https://usebottles.com/) :c-linux: - Frontend to help set up Wine
+- Proton :c-linux: - Tool that bundles Wine and other utilities to run games on Linux. It is bundled with Steam but requires it to be [activated inside Steam's client](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
+    - [Heroic Games Launcher](https://heroicgameslauncher.com/) :c-pc: - Third party Epic Games, GOG and Amazon Games launcher that uses Proton for Linux compatibility, but is avaiable on all desktop platforms
+
+[Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system using containers.  
+[Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
+
+[KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - FOSS compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME
+
+## Emulators
 ### Any/Multiple
 [RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines  
 [MAME](https://wiki.mamedev.org/index.php/SDL_Supported_Platforms) :c-pc: - Multi system emulator with focus on Arcades, although it contains multiple home and portable consoles.  
@@ -97,17 +108,6 @@
 [4DO](https://fourdo.com/) :c-windows: - 3DO emulator
 
 [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) :c-resource: - Emulator driven wiki
-
-## Compatibility layers
-[Wine](https://www.winehq.org/) :c-macos: :c-linux: :c-android: - Compatibility layer to run Windows programs on Linux and other POSIX systems. Compatibility isn't perfect and unwanted behavior is expected, and it is recommended to search for alternatives to already exisitng programs than to run them under Wine
-- [Bottles](https://usebottles.com/) :c-linux: - Frontend to help set up Wine
-- Proton :c-linux: - Tool that bundles Wine and other utilities to run games on Linux. It is bundled with Steam but requires it to be [activated inside Steam's client](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
-    - [Heroic Games Launcher](https://heroicgameslauncher.com/) :c-pc: - Third party Epic Games, GOG and Amazon Games launcher that uses Proton for Linux compatibility, but is avaiable on all desktop platforms
-
-[Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system using containers.  
-[Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
-
-[KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - FOSS compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME
 
 ## System virtualization
 [VirtualBox](https://www.virtualbox.org/) :c-pc: - Cross platform virtualization tool  
