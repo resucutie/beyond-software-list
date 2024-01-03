@@ -194,8 +194,8 @@
 ## E-mail
 ### Providers
 [ProtonMail](https://proton.me/mail) :c-web: :c-mobile: - Secure Email provider based in Switzerland.  
-[Tuta](https://proton.me/mail) :c-web: :c-pc: :c-mobile: - Secure end-to-end encrypted Email provider.  
-[Disroot](https://proton.me/mail) :c-web: - Platform providing online services focused on privacy.  
+[Tuta](https://tuta.com) :c-web: :c-pc: :c-mobile: - Secure end-to-end encrypted Email provider.  
+[Disroot](https://disroot.org) :c-web: - Platform providing online services focused on privacy.  
 
 ### Clients
 [Thunderbird](https://www.thunderbird.net/) :c-pc: - E-mail client developed by Mozilla. Replacement for Outlook.  
@@ -290,7 +290,7 @@ Those are applications and resources that their functionality is directred relat
 ## iOS
 ### Application stores
 [AltStore](https://altstore.io/) :c-windows: :c-macos: :c-ios: - Application store for sideloading apps  
-[Sideloadey](https://sideloadly.io/) :c-windows: :c-macos: :c-ios: :c-appletv: - Application store for sideloading apps
+[Sideloadly](https://sideloadly.io/) :c-windows: :c-macos: :c-ios: :c-appletv: - Application store for sideloading apps
 
 ### Jailbreak
 [iOS Jailbreak CFW guide](https://ios.cfw.guide/) :c-resource: - A complete iOS modding guide, from stock to jailbroken.
@@ -300,7 +300,7 @@ Those are applications and resources that their functionality is directred relat
 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) :c-windows: - Open source Windows and MS Office activation tool.
 
 ### Customization
-[TransculentTB](https://github.com/massgravel/Microsoft-Activation-Scripts) :c-windows: - Utility that makes the taskbar translucent/transparent on Windows 10 and Windows 11.  
+[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) :c-windows: - Utility that makes the taskbar translucent/transparent on Windows 10 and Windows 11.  
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) :c-windows: - Patcher that adds useful enhancements to the Windows taskbar
 
 [Rainmeter](https://www.rainmeter.net/) :c-windows: - Desktop customization tool that adds widgets
@@ -313,7 +313,7 @@ Those are applications and resources that their functionality is directred relat
 
 ### De-bloating
 [TronScript](https://github.com/bmrf/tron) :c-windows: - Most efficient and automated cleaning and disinfection tool for Windows  
-[SofiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
+[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
 
 
 
@@ -336,7 +336,7 @@ Those are applications and resources that their functionality is directred relat
 
 ### Archive managers
 
-[7-zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
+[7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
 [Ark](https://apps.kde.org/ark/) :c-linux: | [GNOME Archive Manager](https://wiki.gnome.org/Apps/FileRoller) :c-linux: - Archive managers for Linux
 
 ## Media management
@@ -386,7 +386,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 ###### NO-MARGIN-CHANGES
 - All entries should contain programs where the user has total control over it and are virus-free. Preferably Free and Open Source applications
 - Each entry should follow the following format:
-    - Name of the produt as a link (`[Product](link)`)
+    - Name of the product as a link (`[Product](link)`)
     - Row of [custom icons](#custom-icons) showing the avaiable icons (if it contains) in the following order:
         - Web :c-chrome: :c-firefox:
             - If it is avaiable on all platforms: :c-web:
@@ -427,7 +427,7 @@ Merged entries:
 :c-chrome: `:c-chrome:` - Runs on Chrome  
 :c-firefox: `:c-firefox:` - Runs on Firefox  
 :c-vr: `:c-vr:` - Avaiable on VR consoles  
-:c-proprietary: `:c-proprietary` - Is proprietary  
+:c-proprietary: `:c-proprietary:` - Is proprietary  
 :c-ads: `:c-ads:` - Contains ads  
 :c-freemium: `:c-freemium:` - Is a program that contains a Freemium payment model  
 :c-paid: `:c-paid:` - Is a paid program  
