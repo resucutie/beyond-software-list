@@ -194,8 +194,8 @@
 ## E-mail
 ### Providers
 [ProtonMail](https://proton.me/mail) :c-web: :c-mobile: - Secure Email provider based in Switzerland.  
-[Tuta](https://proton.me/mail) :c-web: :c-pc: :c-mobile: - Secure end-to-end encrypted Email provider.  
-[Disroot](https://proton.me/mail) :c-web: - Platform providing online services focused on privacy.  
+[Tuta](https://tuta.com) :c-web: :c-pc: :c-mobile: - Secure end-to-end encrypted Email provider.  
+[Disroot](https://disroot.org/) :c-web: - Platform providing online services focused on privacy.  
 
 ### Clients
 [Thunderbird](https://www.thunderbird.net/) :c-pc: - E-mail client developed by Mozilla. Replacement for Outlook.  
