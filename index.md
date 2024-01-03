@@ -49,16 +49,21 @@
 [Yuzu](https://yuzu-emu.org/) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator from the creators of Citra  
 [Ryujinx](https://ryujinx.org/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance
 
-### Play Station
-TODO: PS1
+### PlayStation
+[DuckStation](https://www.duckstation.org/) :c-pc: :c-android: :c-console: - PlayStation emulator that contains advanced features and easy to use interface
 
-TODO: PS2
+[PCSX2](https://pcsx2.net/) :c-pc: - PlayStation 2 emulator with high accuracy and great compatibility with games  
+[AetherSX2](https://emulation.gametechwiki.com/index.php/AetherSX2) :c-android: :c-proprietary: - Closed source port of PCSX2 to Android. Note that it was discontinued recently
+###### NO-PARAGRAPH
+[Play!](https://purei.org/) :c-pc: :c-mobile: - Another PlayStation 2 emulator, but does not have a great compatibility with games compared to PCSX2
 
 [PPSSPP](https://www.ppsspp.org/) :c-pc: :c-mobile: :c-vr: - PSP emulator written in C++
 
-TODO: PS3
+[RPCS3](https://rpcs3.net/) :c-pc: - The most compatible PlayStation 3 emulation out there
 
-TODO: PSVita
+[Vita3k](https://vita3k.org/) :c-pc: :c-android: - PSVita's most compatible emulator
+
+--Note: The avaiable [PS4](https://emulation.gametechwiki.com/index.php/PlayStation_4_emulators) and [PS5](https://emulation.gametechwiki.com/index.php/PlayStation_5_emulators) emulators are far from playable yet. Please do not try those--
 
 ### Sega
 TODO: Master System
