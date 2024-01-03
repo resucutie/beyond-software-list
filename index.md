@@ -180,6 +180,9 @@
 
 
 # Productivity
+## 3D Modeling
+[Blender](https://www.blender.org/) :c-pc: - Free and open source 3D creation suite
+
 ## Browser
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) :c-pc: :c-mobile: - Well-known open source browser developed by Mozilla.
 
@@ -202,9 +205,13 @@
 [K-9 Mail](https://k9mail.app/) :c-android: | [FairEmail](https://github.com/M66B/FairEmail) :c-android: - Android email clients.
 
 ## Image manipulation
-[GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor  
+[GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
+
 [Krita](https://krita.org/) :c-pc: - Free and Open Source drawing program made by the KDE team  
 [Inkscape](https://inkscape.org/) :c-pc: - Vector image drawing program  
+
+[Aseprite](https://www.aseprite.org/) :c-pc: :c-paid:* - Pixel art and animation program  --*: It is free to use if you compile yourself--  
+[Libresprite](https://libresprite.github.io/) :c-pc: - Free and Open Source fork of Aseprite  
 
 ## Office Suite
 [LibreOffice](https://www.libreoffice.org/) :c-pc: - Free and open source office suite tool  
