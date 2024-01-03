@@ -366,7 +366,6 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 [System resources -> iOS](#ios) - Needs more items and applications  
 [Utilities -> Media Management -> File converter](#file-converter) - Needs more FFmpeg frontends  
 [Privacy and Security](#privacy-and-security) - Needs more entires  
-[Compatibility and Emulation](#compatibility-and-emulation) - Needs more emulators  
 
 ## Guidelines
 ###### NO-MARGIN-CHANGES
