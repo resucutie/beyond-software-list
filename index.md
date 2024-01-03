@@ -120,6 +120,7 @@
 
 
 
+
 # Modding
 ## General
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
@@ -160,6 +161,7 @@
 
 
 
+
 # Privacy and Security
 ## Ad blockers
 [uBlock Origin](https://github.com/gorhill/uBlock) :c-web: - Open source community made adblocker  
@@ -173,6 +175,7 @@
 
 ## VPN
 [Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-paid: :c-proprietary: - Secure VPN provider
+
 
 
 
@@ -307,6 +310,7 @@ Those are applications and resources that their functionality is directred relat
 
 
 
+
 # Utilities
 ## Bootable media creation utilities
 [Rufus](https://rufus.ie/) :c-windows: - Standard bootable USB media creation tool  
@@ -349,10 +353,14 @@ Those are applications and resources that their functionality is directred relat
 [LocalSend](https://localsend.org/) :c-pc: :c-mobile: - Open source replacement for AirDrop that works on your local network   
 [Syncting](https://syncthing.net/) :c-pc: :c-android: - Real-time continuous file synchronization program
 
-## Unit conversion
+## Torrenting
+[Transmission](https://transmissionbt.com/) :c-pc: - Easy to use Bittorrent client with a simple interface  
+[qBittorrent](https://www.qbittorrent.org/) :c-pc: - Feature rich Bittorrent client with µTorrent-like User Interface
 
+## Unit conversion
 [ConverterNOW](https://converter-now.web.app/) :c-web: :c-windows: :c-linux: :c-android: - Cross-platform conversion tool  
 [Unitto](https://github.com/sadellie/unitto) :c-android: - Calculator that has unit conversion tools
+
 
 
 
