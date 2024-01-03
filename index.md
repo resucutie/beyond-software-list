@@ -5,7 +5,7 @@
 [MAME](https://wiki.mamedev.org/index.php/SDL_Supported_Platforms) :c-pc: - Multi system emulator with focus on Arcades, although it contains multiple home and portable consoles.  
 [ares](https://ares-emu.net/) :c-pc: - Multi system emulator with a more focus on accuracy and preservation  
 [BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
-[Mesen](https://www.mesen.ca/) :c-pc: - 8 bit and 16 bit multi system emulator 
+[Mesen](https://www.mesen.ca/) :c-pc: - 8 bit and 16 bit multi system emulator  
 
 ### Nintendo
 
@@ -66,13 +66,14 @@
 --Note: The avaiable [PS4](https://emulation.gametechwiki.com/index.php/PlayStation_4_emulators) and [PS5](https://emulation.gametechwiki.com/index.php/PlayStation_5_emulators) emulators are far from playable yet. Please do not try those--
 
 ### Sega
-TODO: Master System
+[Emulicious](https://emulicious.net/) :c-pc: - Multi system emulator that can emulate the Master System, Game Gear and Sega Genesis
 
-TODO: Sega Gensis
+[BlastEm](https://www.retrodev.com/blastem/) :c-pc: - Sega Genesis emulator focused on high accuracy and perfomance
 
-TODO: Sega Saturn
+[Mednafen](https://mednafen.github.io/) :c-windows: :c-linux: - Multi system emulator that has Sega Saturn emulation. [Packages are avaiable for Linux systems](https://pkgs.org/download/mednafen)
 
-TODO: Dreamcast
+[Flycast](https://github.com/flyinghead/flycast) :c-pc: :c-mobile: :c-console: - Open source Dreamcast emulator that also has a great compatibility with its arcade variants
+[Redream](https://redream.io/) :c-pc: :c-android: :c-freemium: :c-proprietary: - Easy to use Dreamcast emulator, although proprietary. Contains less features than Flycast
 
 ### Xbox
 TODO: Xbox (OG)
