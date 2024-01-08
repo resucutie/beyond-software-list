@@ -426,7 +426,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 
 ### Examples
 Single entry:  
-[Kaiteki](https://kaiteki.app) :c-web: :c-windows: :c-linux: :c-android: - A comfy social networking service for multiple platforms
+[ConverterNOW](https://converter-now.web.app/) :c-web: :c-windows: :c-linux: :c-android: - Cross-platform conversion tool  
 
 Entries with alternatives:  
 [Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod  
