@@ -1,3 +1,60 @@
+# Application enhancements
+## Application modifications
+[ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
+--Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
+[LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed framework that patches APKs
+
+### Discord
+[Vencord](https://vencord.dev/) :c-web: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
+[BetterDiscord](https://betterdiscord.app/) :c-pc: - A well-known plugin-based Discord desktop client mod. The most popular option  
+[Replugged](https://replugged.dev/) :c-pc: - A Discord desktop client mod made with a way more robust API for plugins
+
+[OpenAsar](https://replugged.dev/) :c-pc: - Rewrite of Discord's desktop code to optimize the client's startup and reduce size.  
+--Note: Vencord's installer offers the option to install OpenAsar--
+
+[Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod  
+[Enmity](https://enmity.app/) :c-ios: - iPhone exclusive Discord client mod. Requires Alt Store
+
+### Instagram
+[Instander](https://thedise.me/instander/) :c-android: :c-proprietary: - Mod for Instagram
+
+### Notion
+[notion-enhancer](https://notion-enhancer.github.io/) :c-web: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
+
+### Spotify
+[Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify
+
+### Telegram
+[Random Lists' list of Telegram clients](https://t.me/useful_lists/2) :c-resource: - List of Telegram clients  
+--Note: Not all software in there may be trustable. Please pay attention.--
+
+[Nekogram](https://nekogram.app/) :c-android: - Open-source third-party Telegram client with few but useful mods  
+[exteraGram](https://github.com/exteraSquad/exteraGram) :c-android: - User friendly Telegram client that contains a lot of visual examples (add note to install the beta versions as it is more up to date)
+
+[Unigram](https://github.com/UnigramDev/Unigram) :c-windows: - [Fluent](https://fluent2.microsoft.design/) design compliant Telegram client  
+[materialgram](https://github.com/kukuruzka165/materialgram) :c-pc: - Material-like Telegram Client
+
+## Game modifications
+### Minecraft
+[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) - Feature rich mod loader. Used mainly by heavy feature rich mods that adds new content to the game  
+[Fabric](https://fabricmc.net/) - Lightweight Minecraft mod loader. Mostly used for small enhancements and perfomance mods
+
+## External tools
+### Discord
+[Vesktop](https://github.com/Vencord/Vesktop) :c-pc: - Cross-platform desktop app that includes Vencord by default. Offers screen sharing for Wayland as well
+
+### Minecraft
+[Modrinth](https://modrinth.com/) :c-web: - Mods and plugins store
+
+[MultiMC](https://multimc.org/) :c-pc: - Minecraft launcher client that allows launching multiple isolated Minecraft instances and managing mods  
+[Prism Launcher](https://prismlauncher.org/) :c-pc: - Fork of MultiMC that adds enhanced features and more customization options  
+[Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices
+
+[Chunk Base](https://www.chunkbase.com/) :c-web: - Tool for finding terrain features
+
+
+
+
 # Compatibility and Emulation
 ## Compatibility layers
 [Wine](https://www.winehq.org/) :c-macos: :c-linux: :c-android: - Compatibility layer to run Windows programs on Linux and other POSIX systems. Compatibility isn't perfect and unwanted behavior is expected, and it is recommended to search for alternatives to already exisitng programs than to run them under Wine
@@ -117,47 +174,6 @@
 [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) :c-windows: - Executes Linux systems inside Windows.  
 [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/) :c-windows: - Android counterpart of Windows Subsystem for Linux.  
 - [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSALocal) :c-windows: - Script to install WSA with Magisk and GApps
-
-
-
-
-# Modding
-## General
-[ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
---Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
-[LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed framework that patches APKs
-
-## Discord
-[Vencord](https://vencord.dev/) :c-web: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
-[BetterDiscord](https://betterdiscord.app/) :c-pc: - A well-known plugin-based Discord desktop client mod. The most popular option  
-[Replugged](https://replugged.dev/) :c-pc: - A Discord desktop client mod made with a way more robust API for plugins
-
-[OpenAsar](https://replugged.dev/) :c-pc: - Rewrite of Discord's desktop code to optimize the client's startup and reduce size.  
---Note: Vencord's installer offers the option to install OpenAsar--
-
-[Vesktop](https://github.com/Vencord/Vesktop) :c-pc: - Cross-platform desktop app that includes Vencord by default. Offers screen sharing for Wayland as well
-
-[Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod  
-[Enmity](https://enmity.app/) :c-ios: - iPhone exclusive Discord client mod. Requires Alt Store
-
-## Instagram
-[Instander](https://thedise.me/instander/) :c-android: :c-proprietary: - Mod for Instagram
-
-## Notion
-[notion-enhancer](https://notion-enhancer.github.io/) :c-web: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
-
-## Spotify
-[Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify
-
-## Telegram
-[Random Lists' list of Telegram clients](https://t.me/useful_lists/2) :c-resource: - List of Telegram clients  
---Note: Not all software in there may be trustable. Please pay attention.--
-
-[Nekogram](https://nekogram.app/) :c-android: - Open-source third-party Telegram client with few but useful mods  
-[exteraGram](https://github.com/exteraSquad/exteraGram) :c-android: - User friendly Telegram client that contains a lot of visual examples (add note to install the beta versions as it is more up to date)
-
-[Unigram](https://github.com/UnigramDev/Unigram) :c-windows: - [Fluent](https://fluent2.microsoft.design/) design compliant Telegram client  
-[materialgram](https://github.com/kukuruzka165/materialgram) :c-pc: - Material-like Telegram Client
 
 
 
