@@ -167,11 +167,11 @@
 [uBlock Origin](https://github.com/gorhill/uBlock) :c-web: - Open source community made adblocker  
 [PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
 
-[Pi-hole](https://pi-hole.net/) - Network-wide ad blocking
+[Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
 
 ## Password Manager
-[Bitwarden](https://bitwarden.com/) :c-web: :c-pc: :c-mobile: - Cloud based self hostable password vault.  
-- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Rewrite of the Bitwarden API for better perfomance. Ideal for selfhosting
+[Bitwarden](https://bitwarden.com/) :c-web: :c-pc: :c-mobile: :c-selfhost: - Cloud based self hostable password vault.  
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) :c-selfhost: - Rewrite of the Bitwarden API for better perfomance. Ideal for selfhosting
 
 [KeePassXC](https://keepassxc.org/) :c-pc: | [KeePassDX](https://www.keepassdx.com/) :c-android: | [Strongbox](https://apps.apple.com/us/app/strongbox-password-manager/id897283731) :c-macos: :c-ios: - KeePass-compatible local password managers
 
@@ -192,7 +192,7 @@
 [ungoogled-chromium](https://ungoogled-software.github.io/) :c-pc: - Chromium fork that removes Google integration
 
 ## Cloud
-[Nextcloud](https://nextcloud.com/) :c-web: :c-pc: :c-mobile: - Selfhostable cloud service
+[Nextcloud](https://nextcloud.com/) :c-web: :c-pc: :c-mobile: :c-selfhost: - Selfhostable cloud service
 
 ## E-mail
 ### Providers
@@ -418,9 +418,11 @@ For contributing, you can always make a Pull Request on [this file](https://gith
         - Mobile :c-android: :c-ios:
             - If it is avaiable on all platforms: :c-mobile:
         - Console :c-console:
+        - VR :c-vr:
+        - Selfhostable service :c-selfhost:
         - Source code avaiability :c-proprietary:
         - Monetization method :c-ads: :c-freemium: :c-paid:
-- The sections should be sorted in alphabetic order. But that's not required for entries. Note that some will not follow that rule, like: [Compatibility and Emulation -> Consoles](#consoles)
+- The sections should be sorted in alphabetic order. But that's not required for entries. Note that some will not follow that rule
 - Entries with alternatives: If there's an alternative to a program, its entry should be put right next to the other with a breaking line, and not a new paragraph
 - Merged entries: Cases where the applications are too similar in terms of popularity, features, platform and UX-wise. Should be avoided most times, instead prefering 
 
@@ -440,16 +442,17 @@ Merged entries:
 :c-mobile: `:c-mobile` - Runs on all mobile platforms  
 :c-web: `:c-web` - Runs on all browsers  
 :c-console: `:c-console:` - Runs on a console  
+:c-vr: `:c-vr:` - Avaiable on VR consoles  
+:c-selfhost: `:c-selfhost:` - The service is selfhostable  
 :c-android: `:c-android:` - Runs on Android  
 :c-ios: `:c-ios:` - Runs on iOS  
 :c-appletv: `:c-appletv` - Supports Apple TV  
 :c-windows: `:c-windows:` - Runs on Windows  
 :c-macos: `:c-macos:` - Runs on MacOS  
 :c-linux: `:c-linux:` - Runs on Linux  
-:c-cli: `:c-cli` - Is a command line only application  
+:c-cli: `:c-cli:` - Is a command line only application  
 :c-chrome: `:c-chrome:` - Runs on Chrome  
 :c-firefox: `:c-firefox:` - Runs on Firefox  
-:c-vr: `:c-vr:` - Avaiable on VR consoles  
 :c-proprietary: `:c-proprietary:` - Is proprietary  
 :c-ads: `:c-ads:` - Contains ads  
 :c-freemium: `:c-freemium:` - Is a program that contains a Freemium payment model  
@@ -462,7 +465,7 @@ Merged entries:
 `**bold**` - **bold**  
 `***bold and italic***` - ***bold and italic***  
 `~~strikethrough~~` - ~~strikethrough~~  
-`--small--` - --small--
+`--small--` - --small--  
 `###### NO-MARGIN-CHANGES` - Disables lists from merging with the text  
 `###### NO-PARAGRAPH` - Makes paragraphs not render as paragraphs  
 
