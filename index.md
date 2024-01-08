@@ -375,7 +375,7 @@ Those are applications and resources that their functionality is directred relat
 ## OCR Scanners
 [Text-Grab](https://github.com/TheJoeFin/Text-Grab) :c-windows: - OCR utility for Windows 10/11 which makes all visible text available to be copied.  
 [Frog](https://getfrog.app/) :c-linux: - Adwaita GTK OCR utility for Linux to scan text on the screen  
-[OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner) :c-android: | [Android OCR](https://github.com/SubhamTyagi/android-ocr) :c-android: | [TextFairy](https://github.com/renard314/textfairy) :c-android: - Android OCR scans
+[OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner) :c-android: | [Android OCR](https://github.com/SubhamTyagi/android-ocr) :c-android: | [TextFairy](https://github.com/renard314/textfairy) :c-android: - Android OCR scanners
 
 ## System integration
 [KDE Connect](https://kdeconnect.kde.org/) :c-pc: :c-mobile: - Feature rich integration app between phones and computers.
