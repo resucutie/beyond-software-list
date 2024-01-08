@@ -378,7 +378,7 @@ Those are applications and resources that their functionality is directred relat
 # Contributing to this list
 This section includes information on how you can contribute to this list
 
-For contributing, you can always make a Pull Request on [this file](https://github.com/abUwUser/beyond-software/blob/master/public/assets/index.md). It is recommended to not use GitHub's built in editor, and to instead download the files locally using Git. We assume that you know the basics of git and contributing on GitHub.
+For contributing, you can always make a Pull Request on [this file](https://github.com/abUwUser/beyond-software/blob/master/public/assets/index.md). It is recommended to not use GitHub's built in editor, and to instead download the files locally using Git. We assume that you know the basics of [Git](https://docs.github.com/en/get-started/getting-started-with-git) and [contributing on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 ## Sections in need for contributions
 [System resources > Consoles (Homebrew)](#consoles-homebrew) - Needs more guides  
