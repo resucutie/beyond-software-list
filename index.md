@@ -337,6 +337,7 @@ Those are applications and resources that their functionality is directred relat
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
+--Note: There are CLI based programs for Mac and Linux, but the GUI version is only avaiable on Windows--  
 [Ark](https://apps.kde.org/ark/) :c-linux: | [GNOME Archive Manager](https://wiki.gnome.org/Apps/FileRoller) :c-linux: - Archive managers for Linux
 
 ## Media management
