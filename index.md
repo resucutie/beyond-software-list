@@ -36,8 +36,10 @@
 
 ## Game modifications
 ### Minecraft
-[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) - Feature rich mod loader. Used mainly by heavy feature rich mods that adds new content to the game  
-[Fabric](https://fabricmc.net/) - Lightweight Minecraft mod loader. Mostly used for small enhancements and perfomance mods
+[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) :c-pc:* - Feature rich mod loader. Used mainly by heavy feature rich mods that adds new content to the game  
+[Fabric](https://fabricmc.net/) :c-pc:* - Lightweight Minecraft mod loader. Mostly used for small enhancements and perfomance mods
+
+--*: It can run anywhere as long as it runs Minecraft Java--
 
 ## External tools
 ### Discord
