@@ -252,11 +252,19 @@ Those are applications and resources that their functionality is directred relat
 [APKMirror](https://apkmirror.com) :c-web: - Website to download dumped APKs
 
 ### Customization
-[Repainter](https://repainter.app/) :c-android: :c-freemium: :c-proprietary: - Application to apply custom Monet color schemes
-
 [Nova Launcher](https://novalauncher.com/) :c-android: :c-freemium: :c-proprietary: - A well-known grid based launcher  
 [Lawnchair](https://lawnchair.app/) :c-android: - Free and open source grid based launcher  
 [Kvaesitso](https://kvaesitso.mm20.de/) :c-android: - Application launcher that provides a more search-focused widget based experience
+
+[Lawnicons](https://github.com/LawnchairLauncher/lawnicons) :c-android: - Open source icon pack that supports themed icons
+
+[WallMan](https://gitlab.com/colorata/wallman) :c-android: - Application to download and apply Google Pixel wallpapers
+
+[SystemUI Turner](https://github.com/zacharee/Tweaker) :c-android: - View and enable hidden settings on Android devices  
+[Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=en) :c-android: :c-proprietary: - Customization tool for Samsumg devices
+- [Fine Lock](https://finelock.app/) :c-android: :c-freemium: :c-proprietary: - Application to manage Samsung's Good Lock applications without the region lock of Good lock
+
+[Repainter](https://repainter.app/) :c-android: :c-freemium: :c-proprietary: - Application to apply custom Monet color schemes
 
 ### Deep modifications
 [Shizuku](https://shizuku.rikka.app/) :c-android: - Application to give access to system APIs with adb/root privileges. Doesn't suffer from the risks of rooting, but also is not as powerful as such
@@ -271,6 +279,17 @@ Those are applications and resources that their functionality is directred relat
 
 ### Enhancements
 [Rotation Control](https://play.google.com/store/apps/details?id=org.crape.rotationcontrol) :c-android: :c-proprietary: - Controls system rotation
+
+[Taskbar](https://github.com/farmerbb/Taskbar) :c-android: - Adds a taskbar that's accessible at any time
+
+[LinkSheet](https://github.com/1fexd/LinkSheet) :c-android: - Replaces the verified app links system to allow more control over which URLs to open
+
+### Optimization
+[Don't kill my app!](https://dontkillmyapp.com/) :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
+
+[ForceDoze](https://github.com/theblixguy/ForceDoze) :c-android: - Enters the Doze mode as soon as the phone is turned off
+
+[SaveTurner](https://codeberg.org/s1m/savertuner) :c-android: - Adds more options amd profiles for saving battery life
 
 ## Consoles (Homebrew)
 --Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust first the text based guide--
