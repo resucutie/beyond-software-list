@@ -167,6 +167,8 @@
 [uBlock Origin](https://github.com/gorhill/uBlock) :c-web: - Open source community made adblocker  
 [PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
 
+[Pi-hole](https://pi-hole.net/) - Network-wide ad blocking
+
 ## Password Manager
 [Bitwarden](https://bitwarden.com/) :c-web: :c-pc: :c-mobile: - Cloud based self hostable password vault.  
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Rewrite of the Bitwarden API for better perfomance. Ideal for selfhosting
@@ -174,7 +176,8 @@
 [KeePassXC](https://keepassxc.org/) :c-pc: | [KeePassDX](https://www.keepassdx.com/) :c-android: | [Strongbox](https://apps.apple.com/us/app/strongbox-password-manager/id897283731) :c-macos: :c-ios: - KeePass-compatible local password managers
 
 ## VPN
-[Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-paid: :c-proprietary: - Secure VPN provider
+[Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-freemium: - Well known and trusted VPN provider  
+[Mullvad VPN](https://mullvad.net/) :c-pc: :c-mobile: :c-paid: - Secure VPN provider that includes an annoymous signing-in and billing service
 
 
 
