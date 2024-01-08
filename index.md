@@ -1,5 +1,5 @@
 # Application enhancements
-## Application mods
+## Application modifications
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
 --Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
 [LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed framework that patches APKs
@@ -35,11 +35,22 @@
 [materialgram](https://github.com/kukuruzka165/materialgram) :c-pc: - Material-like Telegram Client
 
 ## Game modifications
-WIP
+### Minecraft
+[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) - Feature rich mod loader. Used mainly by heavy feature rich mods that adds new content to the game  
+[Fabric](https://fabricmc.net/) - Lightweight Minecraft mod loader. Mostly used for small enhancements and perfomance mods
 
 ## External tools
 ### Discord
 [Vesktop](https://github.com/Vencord/Vesktop) :c-pc: - Cross-platform desktop app that includes Vencord by default. Offers screen sharing for Wayland as well
+
+### Minecraft
+[Modrinth](https://modrinth.com/) :c-web: - Mods and plugins store
+
+[MultiMC](https://multimc.org/) :c-pc: - Minecraft launcher client that allows launching multiple isolated Minecraft instances and managing mods  
+[Prism Launcher](https://prismlauncher.org/) :c-pc: - Fork of MultiMC that adds enhanced features and more customization options  
+[Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices
+
+[Chunk Base](https://www.chunkbase.com/) :c-web: - Tool for finding terrain features
 
 
 
