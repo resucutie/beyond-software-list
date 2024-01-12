@@ -1,8 +1,8 @@
 ---
 name: Entry request
 about: Request an entry to be added
-title: ''
-labels: suggestion
+title: "[REQUEST] "
+labels: ''
 assignees: ''
 
 ---
