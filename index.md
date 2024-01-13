@@ -330,7 +330,7 @@ Those are applications and resources that their functionality is directred relat
 ## iOS
 ### Application stores
 [AltStore](https://altstore.io/) :c-windows: :c-macos: :c-ios: - Application store for sideloading apps  
-[Sideloadly](https://sideloadly.io/) :c-windows: :c-macos: :c-ios: :c-appletv: - Application store for sideloading apps
+[Sideloadly](https://sideloadly.io/) :c-windows: :c-macos: :c-ios: :c-tvos: - Application store for sideloading apps
 
 ### Jailbreak
 [iOS Jailbreak CFW guide](https://ios.cfw.guide/) :c-resource: - A complete iOS modding guide, from stock to jailbroken.
@@ -464,7 +464,9 @@ Merged entries:
 :c-selfhost: `:c-selfhost:` - The service is selfhostable  
 :c-android: `:c-android:` - Runs on Android  
 :c-ios: `:c-ios:` - Runs on iOS  
-:c-appletv: `:c-appletv` - Supports Apple TV  
+:c-tvbox: `:c-tvbox:` - Avaiable on most smart TV box platforms  
+:c-roku: `:c-roku:` - Supports Roku TV  
+:c-tvos: `:c-tvos:` - Supports Apple TV  
 :c-windows: `:c-windows:` - Runs on Windows  
 :c-macos: `:c-macos:` - Runs on MacOS  
 :c-linux: `:c-linux:` - Runs on Linux  
