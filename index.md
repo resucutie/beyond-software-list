@@ -390,6 +390,16 @@ Those are applications and resources that their functionality is directred relat
 [FFmpeg](https://ffmpeg.org/) :c-pc: :c-cli: - Powerful CLI utility for video manipulation
 - [HandBrake](https://handbrake.fr/) :c-pc: - Open source video transcoder powered by FFmpeg libraries
 
+### Media centers
+[Kodi](https://kodi.tv/) :c-pc: :c-mobile: :c-console: :c-tvos: - Open source powerful media center
+
+[Jellyfin](https://jellyfin.org/) :c-pc: :c-mobile: :c-console: :c-tvbox: :c-selfhost: - Selfhostable streaming service
+
+### Video players
+[VLC](https://www.videolan.org/vlc/) :c-pc: :c-mobile: - Simple, feature rich video player  
+[mpv](https://mpv.io/) :c-pc: :c-android: - Minimal yet customizable video player, although not user friendly  
+[clsid2's MPC-HC fork](https://github.com/clsid2/mpc-hc) :c-windows: - Maintained fork of Media Player Classic - Home Cinema
+
 ## OCR Scanners
 [Text-Grab](https://github.com/TheJoeFin/Text-Grab) :c-windows: - OCR utility for Windows 10/11 which makes all visible text available to be copied.  
 [Frog](https://getfrog.app/) :c-linux: - Adwaita GTK OCR utility for Linux to scan text on the screen  
@@ -430,11 +440,13 @@ For contributing, you can always make a Pull Request on [this file](https://gith
     - Name of the product as a link (`[Product](link)`)
     - Row of [custom icons](#custom-icons) showing the avaiable icons (if it contains) in the following order:
         - Web :c-chrome: :c-firefox:
-            - If it is avaiable on all platforms: :c-web:
+            - If avaiable on all platforms: :c-web:
         - Desktop :c-windows: :c-macos: :c-linux:
-            - If it is avaiable on all platforms: :c-pc:
+            - If avaiable on all platforms: :c-pc:
         - Mobile :c-android: :c-ios:
-            - If it is avaiable on all platforms: :c-mobile:
+            - If avaiable on all platforms: :c-mobile:
+        - TV Boxes :c-roku: :c-tvos:
+            - If avaiable on all platforms: :c-tvbox:
         - Console :c-console:
         - VR :c-vr:
         - Selfhostable service :c-selfhost:
