@@ -110,7 +110,7 @@
 [mGBA](https://mgba.io/) :c-pc: :c-console: - Most well known and advanced GBA emulator.
 - [mGBA_Android](https://github.com/huhao1987/mGBA_Android) :c-android: - Unofficial port of mGBA for Android
 ###### NO-PARAGRAPH
-- [VisualBoyAdvance-M](https://visualboyadvance-m.org/) :c-pc: - A GBA emulator that is not as accurate but that contains great debug features
+[VisualBoyAdvance-M](https://visualboyadvance-m.org/) :c-pc: - A GBA emulator that is not as accurate but that contains great debug features
 
 [melonDS](https://melonds.kuribo64.net/) :c-pc: - Nintendo DS and DSi emulator
 - [Unofficial melonDS Android port](https://github.com/rafaelvcaetano/melonDS-android) :c-android: - Port of melonDS for android
