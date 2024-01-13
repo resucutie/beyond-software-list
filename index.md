@@ -355,7 +355,8 @@ Those are applications and resources that their functionality is directred relat
 
 ### De-bloating
 [TronScript](https://github.com/bmrf/tron) :c-windows: - Most efficient and automated cleaning and disinfection tool for Windows  
-[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
+[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions  
+[privacy.sexy](https://privacy.sexy/) :c-pc: - Script maker for enhancing your privacy
 
 
 
