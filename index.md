@@ -202,7 +202,7 @@
 [AdwCleaner](https://www.malwarebytes.com/adwcleaner) :c-windows: :c-proprietary: - Tool to remove adware programs
 
 [Sandboxie Plus](https://sandboxie-plus.com/) :c-windows: - Sandboxing tool for Windows that does not require virtualization  
-[Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) :c-windows: :c-proprietary: - Temporary Windows 11 VM that undoes all the changes that it creates
+[Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) :c-windows: :c-proprietary: - Temporary Windows 11 VM that undoes all the changes made
 
 ## Password Manager
 [Bitwarden](https://bitwarden.com/) :c-web: :c-extension: :c-pc: :c-mobile: :c-selfhost: - Cloud based self hostable password vault.  
