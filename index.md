@@ -5,7 +5,7 @@
 [LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed framework that patches APKs
 
 ### Discord
-[Vencord](https://vencord.dev/) :c-web: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
+[Vencord](https://vencord.dev/) :c-extension: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
 [BetterDiscord](https://betterdiscord.app/) :c-pc: - A well-known plugin-based Discord desktop client mod. The most popular option  
 [Replugged](https://replugged.dev/) :c-pc: - A Discord desktop client mod made with a way more robust API for plugins
 
@@ -19,10 +19,12 @@
 [Instander](https://thedise.me/instander/) :c-android: :c-proprietary: - Mod for Instagram
 
 ### Notion
-[notion-enhancer](https://notion-enhancer.github.io/) :c-web: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
+[notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
 
 ### Spotify
 [Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify
+
+[BlockTheSpot](https://github.com/mrpond/BlockTheSpot) :c-pc: - Adblock for Spotify Desktop
 
 ### Telegram
 [Random Lists' list of Telegram clients](https://t.me/useful_lists/2) :c-resource: - List of Telegram clients  
@@ -184,20 +186,49 @@
 
 # Privacy and Security
 ## Ad blockers
-[uBlock Origin](https://github.com/gorhill/uBlock) :c-web: - Open source community made adblocker  
+[uBlock Origin](https://github.com/gorhill/uBlock) :c-extension: - Open source community made adblocker
+- [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Collection of filters for blocking mining, pop-ups and anti-adblock bypass.
+- [iploggerfilter](https://github.com/piperun/iploggerfilter) - Filters for websites whose only purpose is to log IP addresses
+- [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
+- [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/doeds-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
+###### NO-PARAGRAPH
 [PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
 
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
 
+## Malware analysis and removal tools
+[VirusTotal](https://www.virustotal.com/) :c-web: :c-proprietary: - Website for analyzing virus samples
+
+[AdwCleaner](https://www.malwarebytes.com/adwcleaner) :c-windows: :c-proprietary: - Tool to remove adware programs
+
+[Sandboxie Plus](https://sandboxie-plus.com/) :c-windows: - Sandboxing tool for Windows that does not require virtualization  
+[Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) :c-windows: :c-proprietary: - Temporary Windows 11 VM that undoes all the changes that it creates
+
 ## Password Manager
-[Bitwarden](https://bitwarden.com/) :c-web: :c-pc: :c-mobile: :c-selfhost: - Cloud based self hostable password vault.  
+[Bitwarden](https://bitwarden.com/) :c-web: :c-extension: :c-pc: :c-mobile: :c-selfhost: - Cloud based self hostable password vault.  
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) :c-selfhost: - Rewrite of the Bitwarden API for better perfomance. Ideal for selfhosting
 
 [KeePassXC](https://keepassxc.org/) :c-pc: | [KeePassDX](https://www.keepassdx.com/) :c-android: | [Strongbox](https://apps.apple.com/us/app/strongbox-password-manager/id897283731) :c-macos: :c-ios: - KeePass-compatible local password managers
 
+[Have I Been Pwned?](https://haveibeenpwned.com/) :c-web: - Website to check if your email or password was leaked
+
 ## VPN
 [Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-freemium: - Well known and trusted VPN provider  
 [Mullvad VPN](https://mullvad.net/) :c-pc: :c-mobile: :c-paid: - Secure VPN provider that includes an annoymous signing-in and billing service
+
+## Others
+[ClearURLs](https://clearurls.xyz/) :c-extension: - Automatically remove tracking elements from URLs
+
+[FastFoward](https://fastforward.team/) :c-extension: - Automatically bypass link shorteners  
+[Unshorten.It!](https://unshorten.it/) :c-web: :c-proprietary: - Unshorterns links and outputs the unshortened URL
+
+[I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) :c-extension: - Disables the cookie warning on most websites. May accept automatically when it cannot be declined easily
+
+[urlscan.io](https://urlscan.io/) :c-web: :c-proprietary: - Analyze the URL of a website, as well as providing a preview of
+
+[privacy.sexy](https://privacy.sexy/) :c-pc: - Script maker for enhancing your privacy
+
+[Terms of Service; Didn't read](https://tosdr.org/) :c-extension: :c-resource: - Resource to get a quick summary on terms of service, as well as an overall privacy and user freedom score
 
 
 
@@ -308,7 +339,7 @@ Those are applications and resources that their functionality is directred relat
 [LinkSheet](https://github.com/1fexd/LinkSheet) :c-android: - Replaces the verified app links system to allow more control over which URLs to open
 
 ### Optimization
-[Don't kill my app!](https://dontkillmyapp.com/) :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
+[Don't kill my app!](https://dontkillmyapp.com/) :c-android: :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
 
 [ForceDoze](https://github.com/theblixguy/ForceDoze) :c-android: - Enters the Doze mode as soon as the phone is turned off
 
@@ -317,7 +348,7 @@ Those are applications and resources that their functionality is directred relat
 ## Consoles (Homebrew)
 --Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust first the text based guide--
 ### Nintendo
-[CFW's DSi guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii
+[CFW's DSi guide](https://dsi.cfw.guide/) :c-resource: - Guide for homebrewing the Wii
 
 [RiiConnect24's Wii guide](https://wii.guide/) :c-resource: - Guide for homebrewing the Wii
 
@@ -358,8 +389,11 @@ Those are applications and resources that their functionality is directred relat
 
 ### De-bloating
 [TronScript](https://github.com/bmrf/tron) :c-windows: - Most efficient and automated cleaning and disinfection tool for Windows  
-[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions  
-[privacy.sexy](https://privacy.sexy/) :c-pc: - Script maker for enhancing your privacy
+[SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
+- [SophiApp](https://github.com/Sophia-Community/SophiApp) :c-windows: - Graphical version of SophiaScript
+
+### Uninstallers
+[Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :c-windows: - Uninstalls apps in bulk
 
 
 
@@ -447,13 +481,14 @@ For contributing, you can always make a Pull Request on [this file](https://gith
     - Row of [custom icons](#custom-icons) showing the avaiable icons (if it contains) in the following order:
         - Web :c-chrome: :c-firefox:
             - If avaiable on all platforms: :c-web:
+            - If it is avaiable as a browser extension: :c-extension:
         - Desktop :c-windows: :c-macos: :c-linux:
             - If avaiable on all platforms: :c-pc:
         - Mobile :c-android: :c-ios:
             - If avaiable on all platforms: :c-mobile:
+        - Console :c-console:
         - TV Boxes :c-roku: :c-tvos:
             - If avaiable on all platforms: :c-tvbox:
-        - Console :c-console:
         - VR :c-vr:
         - Selfhostable service :c-selfhost:
         - Source code avaiability :c-proprietary:
@@ -464,7 +499,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 
 ### Examples
 Single entry:  
-[ConverterNOW](https://converter-now.web.app/) :c-web: :c-windows: :c-linux: :c-android: - Cross-platform conversion tool  
+[Jellyfin](https://jellyfin.org/) :c-pc: :c-mobile: :c-console: :c-tvbox: :c-selfhost: - Selfhostable streaming service
 
 Entries with alternatives:  
 [Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod  
@@ -489,6 +524,7 @@ Merged entries:
 :c-macos: `:c-macos:` - Runs on MacOS  
 :c-linux: `:c-linux:` - Runs on Linux  
 :c-cli: `:c-cli:` - Is a command line only application  
+:c-extension: `:c-extension:` - Is avaiable as a browser extension  
 :c-chrome: `:c-chrome:` - Runs on Chrome  
 :c-firefox: `:c-firefox:` - Runs on Firefox  
 :c-proprietary: `:c-proprietary:` - Is proprietary  
@@ -511,3 +547,4 @@ Merged entries:
 Thanks to:
 - [FontAwesome](https://fontawesome.com/) and [Material Icons](https://fonts.google.com/icons) for providing the icons
 - [Volpeon](https://volpeon.ink/) for the original [Blobfox](https://volpeon.ink/emojis/blobfox/) in a box icon (we modified it a lil bit to change the icon inside da box :3)
+- [Ripped](https://ripped.guide/) as the inspiration of this project
