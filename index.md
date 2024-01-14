@@ -206,6 +206,9 @@
 ## 3D Modeling
 [Blender](https://www.blender.org/) :c-pc: - Free and open source 3D creation suite
 
+## Audio creation
+[Audacity](https://www.audacityteam.org/) :c-pc: - Simple but robust audio editing tool
+
 ## Browser
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) :c-pc: :c-mobile: - Well-known open source browser developed by Mozilla.
 
@@ -227,7 +230,7 @@
 
 [K-9 Mail](https://k9mail.app/) :c-android: | [FairEmail](https://github.com/M66B/FairEmail) :c-android: - Android email clients.
 
-## Image manipulation
+## Image creation
 [GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
 
 [Krita](https://krita.org/) :c-pc: - Free and Open Source drawing program made by the KDE team  
@@ -249,7 +252,7 @@
 
 [draw.io](https://www.drawio.com/) :c-web: :c-pc: - Diagram app creating tool
 
-## Video manipulation
+## Video creation
 [Kdenlive](https://kdenlive.org/) :c-pc: - Open source video editing tool made by the KDE team.  
 [Shotcut](https://shotcut.org/) :c-pc: - Open source advanced video editing tool.
 
