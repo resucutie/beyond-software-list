@@ -374,6 +374,7 @@ Those are applications and resources that their functionality is directred relat
 ## Windows
 ### Activators
 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) :c-windows: - Open source Windows and MS Office activation tool.
+- [Unsupported Products Activation](https://massgrave.dev/unsupported_products_activation.html) :c-resource: - Other stuff that MAS can't activate
 
 ### Customization
 [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) :c-windows: - Utility that makes the taskbar translucent/transparent on Windows 10 and Windows 11.  
