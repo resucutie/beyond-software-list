@@ -2,7 +2,7 @@
 ## Application modifications
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
 --Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
-[LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed framework that patches APKs
+[LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of [LSPosed](#system-escalation) framework that patches APKs
 
 ### Discord
 [Vencord](https://vencord.dev/) :c-extension: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
@@ -20,6 +20,9 @@
 
 ### Notion
 [notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
+
+### Snapchat
+[SnapEnhance](https://github.com/rhunk/SnapEnhance) :c-android: - Mod for Snapchat. **Will require LSPosed/LSPatch**
 
 ### Spotify
 [Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify
@@ -166,7 +169,8 @@
 
 ### Others
 
-[86Box](https://86box.net/) :c-pc: - DOS emulator that can run on any system
+[86Box](https://86box.net/) :c-pc: - DOS emulator that can run on any system  
+[Infinite Mac](https://infinitemac.org/) :c-web: - Web based classic macintosh emulators
 
 [4DO](https://fourdo.com/) :c-windows: - 3DO emulator
 
@@ -320,17 +324,6 @@ Those are applications and resources that their functionality is directred relat
 
 [Repainter](https://repainter.app/) :c-android: :c-freemium: :c-proprietary: - Application to apply custom Monet color schemes
 
-### Deep modifications
-[Shizuku](https://shizuku.rikka.app/) :c-android: - Application to give access to system APIs with adb/root privileges. Doesn't suffer from the risks of rooting, but also is not as powerful as such
-- [awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) :c-resource: - List of applications that uses Shizuku in various ways
-
-------------
-
---Note: all of the entries below on this section will require rooting in some way. This can cause applications to not work and will likely cause GMS to be disabled, potentially making banking apps and other sensitive applications unusable--
-
-[Magisk](https://github.com/topjohnwu/Magisk) :c-android: - Suite of open source software for deep customizations. Most recommended option for SU manager.  
-[LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed
-
 ### Enhancements
 [Rotation Control](https://play.google.com/store/apps/details?id=org.crape.rotationcontrol) :c-android: :c-proprietary: - Controls system rotation
 
@@ -341,9 +334,28 @@ Those are applications and resources that their functionality is directred relat
 ### Optimization
 [Don't kill my app!](https://dontkillmyapp.com/) :c-android: :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
 
-[ForceDoze](https://github.com/theblixguy/ForceDoze) :c-android: - Enters the Doze mode as soon as the phone is turned off
+[ForceDoze](https://github.com/theblixguy/ForceDoze) :c-android: - Enters the Doze mode as soon as the phone is turned off  
+[Universal GMS Doze](https://github.com/gloeyisk/universal-gms-doze) :c-android: - Patches Google Play services app and certain processes/services to be able to use battery optimization. **Requires Magisk/APatch**
 
 [SaveTurner](https://codeberg.org/s1m/savertuner) :c-android: - Adds more options amd profiles for saving battery life
+
+### System escalation
+[Shizuku](https://shizuku.rikka.app/) :c-android: - Application to give access to system APIs with adb/root privileges. Doesn't suffer from the risks of rooting, but also is not as powerful as such
+- [awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) :c-resource: - List of applications that uses Shizuku in various ways
+
+------------
+
+--Note: all of the entries below on this section will require rooting in some way. This can cause applications to not work and will likely cause GMS to be disabled, potentially making banking apps and other sensitive applications unusable--
+
+[OrangeFox]() :c-android: - Modern and powerful custom android recovery with a nice interface  
+[TWRP](https://twrp.me/) :c-android: - Well known custom android recovery
+
+[Magisk](https://github.com/topjohnwu/Magisk) :c-android: - Root manager that provides root access without injecting code on the kernel. Can be safely removed if needed  
+[APatch](https://github.com/bmax121/APatch) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can be useful to avoid Play Integrity's detection, and can run Magisk modules, but it is harder to remove.
+
+[LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed. Can be replaced by [LSPatch](#application-modifications) for unrooted devices
+
+[Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) :c-android: - App to spoof root from apps  
 
 ## Consoles (Homebrew)
 --Note: If you're going to watch an homebrew youtube tutorial, please watch an up-to-date one while reading a text based guide. Trust first the text based guide--
