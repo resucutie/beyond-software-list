@@ -288,6 +288,8 @@
 [draw.io](https://www.drawio.com/) :c-web: :c-pc: - Diagram app creating tool
 
 ## Video creation
+[OBS](https://obsproject.com/) :c-pc: - Powerful streaming and video recorder program. Used by many video creators
+
 [Kdenlive](https://kdenlive.org/) :c-pc: - Open source video editing tool made by the KDE team.  
 [Shotcut](https://shotcut.org/) :c-pc: - Open source advanced video editing tool.
 
@@ -347,7 +349,7 @@ Those are applications and resources that their functionality is directred relat
 
 --Note: all of the entries below on this section will require rooting in some way. This can cause applications to not work and will likely cause GMS to be disabled, potentially making banking apps and other sensitive applications unusable--
 
-[OrangeFox]() :c-android: - Modern and powerful custom android recovery with a nice interface  
+[OrangeFox](https://orangefox.download/) :c-android: - Modern and powerful custom android recovery with a nice interface  
 [TWRP](https://twrp.me/) :c-android: - Well known custom android recovery
 
 [Magisk](https://github.com/topjohnwu/Magisk) :c-android: - Root manager that provides root access without injecting code on the kernel. Can be safely removed if needed  
@@ -416,6 +418,9 @@ Those are applications and resources that their functionality is directred relat
 [Rufus](https://rufus.ie/) :c-windows: - Standard bootable USB media creation tool  
 [Ventoy](https://www.ventoy.net/) :c-windows: :c-linux: - Boot in multiple bootable medias with one USB.  
 [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) :c-linux: - Windows media creation tool for Linux  
+
+## Capture tools
+[ShareX](https://getsharex.com/) :c-windows: - Highly powerful image and quick video capture tool
 
 ## File management
 [Files](https://files.community/) :c-windows: - File explorer that improves upon Windows's original file explorer  
