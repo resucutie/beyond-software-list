@@ -244,6 +244,11 @@
 ## Audio creation
 [Audacity](https://www.audacityteam.org/) :c-pc: - Simple but robust audio editing tool
 
+## Automation
+[Home Assistant](https://www.home-assistant.io/) :c-selfhost: - Selfhostable home automation
+
+[Tasker](https://tasker.joaoapps.com/) :c-android: :c-proprietary: :c-paid: - Most complete automation tool for Android
+
 ## Browser
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) :c-pc: :c-mobile: - Well-known open source browser developed by Mozilla.
 
