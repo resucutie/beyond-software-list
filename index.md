@@ -443,11 +443,18 @@ Those are applications and resources that their functionality is directred relat
 --Note: There are CLI based programs for Mac and Linux, but the GUI version is only avaiable on Windows--  
 [Ark](https://apps.kde.org/ark/) :c-linux: | [GNOME Archive Manager](https://wiki.gnome.org/Apps/FileRoller) :c-linux: - Archive managers for Linux
 
+## Lists and resources
+[AlternativeTo](https://alternativeto.net/) :c-resource: - Find alternatives to applications  
+[Open Source Alternative To](https://www.opensourcealternative.to/) :c-resource: - Find open source alternatives to applications
+
+[Ripped](https://ripped.guide/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
+
 ## Media management
 ### Content downloader
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
 [Cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
-[Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos
+[Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos and other social medias  
+[Seal](https://github.com/JunkFood02/Seal) :c-android: - Mobile application to download videos from YouTube and other social medias
 
 ### File converter
 [FFmpeg](https://ffmpeg.org/) :c-pc: :c-cli: - Powerful CLI utility for video manipulation
