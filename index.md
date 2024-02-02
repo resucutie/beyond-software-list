@@ -413,6 +413,8 @@ Those are applications and resources that their functionality is directred relat
 
 [PowerToys](https://github.com/microsoft/PowerToys/) :c-windows: - Set of utilities to enhance the Windows experience
 
+[DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) :c-windows: - Adds blur effects to the window frame
+
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) :c-windows: - Tool for doing small register tweaks on Windows
 
 ### De-bloating
