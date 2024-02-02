@@ -447,6 +447,9 @@ Those are applications and resources that their functionality is directred relat
 
 [Total Commander](https://www.ghisler.com/) :c-windows: :c-proprietary: - File manager known for its powerful file removal tool.
 
+[hydrus network](https://hydrusnetwork.github.io/hydrus/) :c-pc: :c-selfhostable: - Local booru-ish repository that can be selfhosted  
+[Szurubooru](https://github.com/rr-/szurubooru) :c-selfhostable: - Exclusively selfhostable booru repositoru
+
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
