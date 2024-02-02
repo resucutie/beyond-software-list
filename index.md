@@ -25,7 +25,10 @@
 [SnapEnhance](https://github.com/rhunk/SnapEnhance) :c-android: - Mod for Snapchat. **Will require LSPosed/LSPatch**
 
 ### Spotify
-[Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify
+[Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify  
+[SpotX](https://github.com/SpotX-Official/SpotX) :c-pc: - Spotify mod that includes some out of box enhancements
+
+[xManager](https://www.xmanagerapp.com/) :c-android: - App that installs prepatched versions of Spotify that includes quality of life features
 
 [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) :c-pc: - Adblock for Spotify Desktop
 
