@@ -85,6 +85,12 @@
 [BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
 [Mesen](https://www.mesen.ca/) :c-pc: - 8 bit and 16 bit multi system emulator  
 
+### Android
+--Note: You may should check out for [Waydroid](#compatibility-and-emulation) if you're on Linux or [WSA](#system-virtualization) for Windows--
+
+[Android Studio's emulator](https://developer.android.com/studio/run/emulator) :c-pc: - Android Studio's well known offering
+[Genymotion](https://www.genymotion.com/) :c-pc: :c-paid: - Android emulator focused on developing and non-google devices
+
 ### Atari
 
 [Stella](https://stella-emu.github.io/) :c-pc: - Atari 2600 emulator
@@ -280,7 +286,7 @@
 
 ## E-readers
 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme  
-[Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) - Android manga readers. TachiyomiSY and Neko are both forks of [Tachiyomi](https://tachiyomi.org/)  
+[Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
 
 ## Image creation
