@@ -237,7 +237,7 @@
 
 
 
-# Productivity
+# Productivity and Leisure
 ## 3D Modeling
 [Blender](https://www.blender.org/) :c-pc: - Free and open source 3D creation suite
 
@@ -269,6 +269,11 @@
 [Evolution](https://wiki.gnome.org/Apps/Evolution) :c-linux: - Personal information management application that provides integrated mail, calendaring and address book functionality.  
 
 [K-9 Mail](https://k9mail.app/) :c-android: | [FairEmail](https://github.com/M66B/FairEmail) :c-android: - Android email clients.
+
+## E-readers
+[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme  
+[Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) - Android manga readers. TachiyomiSY and Neko are both forks of [Tachiyomi](https://tachiyomi.org/)  
+[Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
 
 ## Image creation
 [GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
@@ -502,6 +507,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 [System resources -> iOS](#ios) - Needs more items and applications  
 [Utilities -> Media Management -> File converter](#file-converter) - Needs more FFmpeg frontends  
 [Privacy and Security](#privacy-and-security) - Needs more entires  
+[System resources -> iOS](#e-readers) - I need to know more about the e-reading scene :neofox_googly_shocked:  
 
 ## Guidelines
 ###### NO-MARGIN-CHANGES
