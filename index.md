@@ -348,7 +348,7 @@ Those are applications and resources that their functionality is directred relat
 [WallMan](https://gitlab.com/colorata/wallman) :c-android: - Application to download and apply Google Pixel wallpapers
 
 [SystemUI Turner](https://github.com/zacharee/Tweaker) :c-android: - View and enable hidden settings on Android devices  
-[Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=en) :c-android: :c-proprietary: - Customization tool for Samsumg devices
+[Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=en) :c-android: :c-proprietary: - Customization tool for Samsung devices
 - [Fine Lock](https://finelock.app/) :c-android: :c-freemium: :c-proprietary: - Application to manage Samsung's Good Lock applications without the region lock of Good lock
 
 [Repainter](https://repainter.app/) :c-android: :c-freemium: :c-proprietary: - Application to apply custom Monet color schemes
