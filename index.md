@@ -476,6 +476,11 @@ Those are applications and resources that their functionality is directred relat
 
 [Ripped](https://ripped.guide/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
 
+## Keyboard enhancements
+[AutoHotkey](https://www.autohotkey.com/) :c-windows: - Powerful keyboard script maker
+
+[OP Auto Clicker](https://www.opautoclicker.com/index.html) :c-chrome: :c-windows: :c-macos: :c-android: - Simple autoclicker
+
 ## Media management
 ### Content downloader
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
