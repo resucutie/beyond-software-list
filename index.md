@@ -429,6 +429,8 @@ Those are applications and resources that their functionality is directred relat
 
 [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) :c-windows: - Adds blur effects to the window frame
 
+[AccentColorizer](https://github.com/krlvm/AccentColorizer) :c-winodws: - Applies the accent colors to more elements
+
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) :c-windows: - Tool for doing small register tweaks on Windows
 
 ### De-bloating
@@ -476,7 +478,7 @@ Those are applications and resources that their functionality is directred relat
 
 [Ripped](https://ripped.guide/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
 
-## Keyboard enhancements
+## Keyboard tools
 [AutoHotkey](https://www.autohotkey.com/) :c-windows: - Powerful keyboard script maker
 
 [OP Auto Clicker](https://www.opautoclicker.com/index.html) :c-chrome: :c-windows: :c-macos: :c-android: - Simple autoclicker
