@@ -118,6 +118,7 @@
 - [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG) :c-windows: :c-linux: - Frontend for Muphen64Plus
 - [Muphen64Plus FZ](https://play.google.com/store/apps/details?id=org.mupen64plusae.v3.fzurita) :c-android: - Port of Muphen64Plus for Android  
 ###### NO-PARAGRAPH
+[Parallel Launcher](https://parallel-launcher.ca/) :c-pc: - Easy to use launcher for ParallelN64 and Mupen64Plus-Next emulators  
 [simple64](https://simple64.github.io/) :c-windows: :c-linux: - Easy to use N64 emulator that bundles Muphen64Plus, Parallel RDP and its own frontend  
 [Project64](https://www.pj64-emu.com/) :c-windows: - An old but well known Nintendo 64 emaultion software
 
