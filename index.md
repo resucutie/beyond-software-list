@@ -352,7 +352,7 @@ Those are applications and resources that their functionality is directred relat
 [Good Lock](https://galaxystore.samsung.com/detail/com.samsung.android.goodlock?langCd=en) :c-android: :c-proprietary: - Customization tool for Samsung devices
 - [Fine Lock](https://finelock.app/) :c-android: :c-freemium: :c-proprietary: - Application to manage Samsung's Good Lock applications without the region lock of Good lock
 
-[Repainter](https://repainter.app/) :c-android: :c-freemium: :c-proprietary: - Application to apply custom Monet color schemes
+[ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) :c-android: - Application to apply custom Monet color schemes
 
 ### Enhancements
 [Rotation Control](https://play.google.com/store/apps/details?id=org.crape.rotationcontrol) :c-android: :c-proprietary: - Controls system rotation
@@ -360,6 +360,8 @@ Those are applications and resources that their functionality is directred relat
 [Taskbar](https://github.com/farmerbb/Taskbar) :c-android: - Adds a taskbar that's accessible at any time
 
 [LinkSheet](https://github.com/1fexd/LinkSheet) :c-android: - Replaces the verified app links system to allow more control over which URLs to open
+
+[Install with Options](https://github.com/zacharee/InstallWithOptions) :c-android: - Insalls APKs with more complex options, such as allowing downgrades
 
 ### Optimization
 [Don't kill my app!](https://dontkillmyapp.com/) :c-android: :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
