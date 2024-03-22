@@ -367,7 +367,7 @@ Those are applications and resources that their functionality is directred relat
 [Don't kill my app!](https://dontkillmyapp.com/) :c-android: :c-resource: - Open letter to phone manufactuers to disable battery optimizations that affects app functionalities. Contains instructions on how can those be turned off. There's also an Android application that allows benchmarking of your phone
 
 [ForceDoze](https://github.com/theblixguy/ForceDoze) :c-android: - Enters the Doze mode as soon as the phone is turned off  
-[Universal GMS Doze](https://github.com/gloeyisk/universal-gms-doze) :c-android: - Patches Google Play services app and certain processes/services to be able to use battery optimization. **Requires Magisk/APatch**
+[Universal GMS Doze](https://github.com/gloeyisk/universal-gms-doze) :c-android: - Patches Google Play services app and certain processes/services to be able to use battery optimization. **Requires Magisk/KSU**
 
 [SaveTurner](https://codeberg.org/s1m/savertuner) :c-android: - Adds more options amd profiles for saving battery life
 
@@ -383,7 +383,8 @@ Those are applications and resources that their functionality is directred relat
 [TWRP](https://twrp.me/) :c-android: - Well known custom android recovery
 
 [Magisk](https://github.com/topjohnwu/Magisk) :c-android: - Root manager that provides root access without injecting code on the kernel. Can be safely removed if needed  
-[APatch](https://github.com/bmax121/APatch) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can be useful to avoid Play Integrity's detection, and can run Magisk modules, but it is harder to remove.
+[KernelSU](https://kernelsu.org/) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can cause fewer root detecions, and can run Magisk and KernelSU modules.  
+[APatch](https://github.com/bmax121/APatch) :c-android: - Hybird of KerenlSU and Magisk, trying to have both benefits.
 
 [LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed. Can be replaced by [LSPatch](#application-modifications) for unrooted devices
 
