@@ -2,17 +2,19 @@
 ## Application modifications
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
 --Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
-[LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of [LSPosed](#system-escalation) framework that patches APKs
+
+[LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed
+- [LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed that directly patches APKs
 
 ### Discord
 [Vencord](https://vencord.dev/) :c-extension: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
 [BetterDiscord](https://betterdiscord.app/) :c-pc: - A well-known plugin-based Discord desktop client mod. The most popular option  
 [Replugged](https://replugged.dev/) :c-pc: - A Discord desktop client mod made with a way more robust API for plugins
 
-[OpenAsar](https://replugged.dev/) :c-pc: - Rewrite of Discord's desktop code to optimize the client's startup and reduce size.  
+[OpenAsar](https://openasar.dev/) :c-pc: - Rewrite of Discord's desktop code to optimize the client's startup and reduce size.  
 --Note: Vencord's installer offers the option to install OpenAsar--
 
-[Vendetta](https://github.com/vendetta-mod/Vendetta) :c-mobile: - Multi-platform Discord mobile client mod  
+[Revenge](https://github.com/revenge-mod/Revenge) :c-mobile: | [Pyoncord](https://github.com/pyoncord/Pyoncord) :c-mobile: - Multi-platform Discord mobile client mods based on the now discontinued [Vendetta](https://github.com/vendetta-mod/Vendetta)  
 [Enmity](https://enmity.app/) :c-ios: - iPhone exclusive Discord client mod. Requires Alt Store
 
 ### Instagram
@@ -51,7 +53,7 @@
 
 ## External tools
 ### Discord
-[Vesktop](https://github.com/Vencord/Vesktop) :c-pc: - Cross-platform desktop app that includes Vencord by default. Offers screen sharing for Wayland as well
+[Vesktop](https://github.com/Vencord/Vesktop) :c-pc: - Cross-platform electron repackage of Discord that includes Vencord by default. Useful for screen sharing on Wayland
 
 ### Minecraft
 [Modrinth](https://modrinth.com/) :c-web: - Mods and plugins store
@@ -402,8 +404,6 @@ Those are applications and resources that their functionality is directred relat
 [KernelSU](https://kernelsu.org/) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can cause fewer root detecions.  
 [APatch](https://github.com/bmax121/APatch) :c-android: - Hybird of KerenlSU and Magisk, trying to have both benefits.
 
-[LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed. Can be replaced by [LSPatch](#application-modifications) for unrooted devices
-
 [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases) :c-android: - App to spoof root from apps  
 
 ## Consoles (Homebrew)
@@ -556,7 +556,7 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 [System resources -> iOS](#ios) - Needs more items and applications  
 [Utilities -> Media Management -> File converter](#file-converter) - Needs more FFmpeg frontends  
 [Privacy and Security](#privacy-and-security) - Needs more entires  
-[System resources -> iOS](#e-readers) - I need to know more about the e-reading scene :neofox_googly_shocked:  
+[Productivity and Leisure -> E-readers](#e-readers) - I need to know more about the e-reading scene :neofox_googly_shocked:  
 
 ## Guidelines
 ###### NO-MARGIN-CHANGES
