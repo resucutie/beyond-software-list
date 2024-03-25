@@ -339,6 +339,22 @@ Those are applications and resources that their functionality is directred relat
 
 [APKMirror](https://apkmirror.com) :c-web: - Website to download dumped APKs
 
+### Custom ROMs
+--**Note:** It is always recommended to contact someone experienced with android modding for your phone before installing a custom rom. You can find Telegram groups for your phone on XDA Developers--
+
+[DSU Sideloader](https://github.com/VegaBobo/DSU-Sideloader) :c-android: - App to load custom ROMs temporarily, similar to a "Live USB"
+
+**Googled ROMs**  
+[LineageOS](https://lineageos.org/) ([Treble GSI](https://sourceforge.net/projects/andyyan-gsi/files/lineage-21-td/)) :c-android: - Well known ROM that provides an experience less "googled", although Google services are present
+
+[Derpfest](https://derpfest.org/) ([Treble GSI](https://github.com/KoysX/treble_DerpFest_GSI)) :c-android: - Custom ROM that has some light built in customization features  
+[VoltageOS](https://github.com/VoltageOS) ([Treble GSI](https://github.com/cawilliamson/treble_voltage)) :c-android: - Custom ROM that includes many customization features with the system  
+[PixelOS](https://pixelos.net/) ([Treble GSI](https://sourceforge.net/projects/misterztr-gsi/files/PixelOS/Android%2014/)) :c-android: - Provides minimal changes to Android's experience, providing the closest Pixel experience. Can cause fewer root detections
+
+**De-googled ROMs**  
+[GrapheneOS](https://grapheneos.org/) :c-android: - Custom ROM aimed at providing the most of privacy and security  
+[/e/OS](https://e.foundation/e-os/) :c-android: - Aims at providing the most privacy for the user, more than GrapheneOS
+
 ### Customization
 [Nova Launcher](https://novalauncher.com/) :c-android: :c-freemium: :c-proprietary: - A well-known grid based launcher  
 [Lawnchair](https://lawnchair.app/) :c-android: - Free and open source grid based launcher  
@@ -383,7 +399,7 @@ Those are applications and resources that their functionality is directred relat
 [TWRP](https://twrp.me/) :c-android: - Well known custom android recovery
 
 [Magisk](https://github.com/topjohnwu/Magisk) :c-android: - Root manager that provides root access without injecting code on the kernel. Can be safely removed if needed  
-[KernelSU](https://kernelsu.org/) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can cause fewer root detecions, and can run Magisk and KernelSU modules.  
+[KernelSU](https://kernelsu.org/) :c-android: - Patches the kernel directly for providing root access instead of giving on boot. Can cause fewer root detecions.  
 [APatch](https://github.com/bmax121/APatch) :c-android: - Hybird of KerenlSU and Magisk, trying to have both benefits.
 
 [LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed. Can be replaced by [LSPatch](#application-modifications) for unrooted devices
