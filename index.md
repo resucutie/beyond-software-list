@@ -90,7 +90,7 @@
 ### Android
 --Note: You may should check out for [Waydroid](#compatibility-and-emulation) if you're on Linux or [WSA](#system-virtualization) for Windows--
 
-[Android Studio's emulator](https://developer.android.com/studio/run/emulator) :c-pc: - Android Studio's well known offering
+[Android Studio's emulator](https://developer.android.com/studio/run/emulator) :c-pc: - Android Studio's well known offering  
 [Genymotion](https://www.genymotion.com/) :c-pc: :c-paid: - Android emulator focused on developing and non-google devices
 
 ### Atari
@@ -206,8 +206,8 @@
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Collection of filters for blocking mining, pop-ups and anti-adblock bypass.
 - [iploggerfilter](https://github.com/piperun/iploggerfilter) - Filters for websites whose only purpose is to log IP addresses
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
-- [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/doeds-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
-###### NO-PARAGRAPH
+- [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/does-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
+
 [AdAway](https://adaway.org/) :c-android: - Ad blocker for Android that uses hosts files and can either be used with or without root  
 [PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
 
@@ -288,7 +288,7 @@
 [K-9 Mail](https://k9mail.app/) :c-android: | [FairEmail](https://github.com/M66B/FairEmail) :c-android: - Android email clients.
 
 ## E-readers
-[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme  
+[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme  
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
 
@@ -429,6 +429,8 @@ Those are applications and resources that their functionality is directred relat
 [AltStore](https://altstore.io/) :c-windows: :c-macos: :c-ios: - Application store for sideloading apps  
 [Sideloadly](https://sideloadly.io/) :c-windows: :c-macos: :c-ios: :c-tvos: - Application store for sideloading apps
 
+[TrollStore](https://github.com/opa334/TrollStore) :c-ios: - Permasigned jailed app that can permanently install any IPA you open in it
+
 ### Jailbreak
 [iOS Jailbreak CFW guide](https://ios.cfw.guide/) :c-resource: - A complete iOS modding guide, from stock to jailbroken.
 
@@ -449,7 +451,7 @@ Those are applications and resources that their functionality is directred relat
 
 [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) :c-windows: - Adds blur effects to the window frame
 
-[AccentColorizer](https://github.com/krlvm/AccentColorizer) :c-winodws: - Applies the accent colors to more elements
+[AccentColorizer](https://github.com/krlvm/AccentColorizer) :c-windows: - Applies the accent colors to more elements
 
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) :c-windows: - Tool for doing small register tweaks on Windows
 
@@ -471,7 +473,14 @@ Those are applications and resources that their functionality is directred relat
 [WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) :c-linux: - Windows media creation tool for Linux  
 
 ## Capture tools
-[ShareX](https://getsharex.com/) :c-windows: - Highly powerful image and quick video capture tool
+[ShareX](https://getsharex.com/) :c-windows: - Highly powerful image and quick video capture tool  
+[Flameshot](https://flameshot.org/) :c-pc: - Cross platform screenshot application
+
+## Enhanced calculators
+[Qalculate!](https://qalculate.github.io/) :c-pc: - Open source powerful scientific calcuator
+
+[GeoGebra](https://www.geogebra.org/) :c-web: :c-pc: - Advanced graphing calculator with a desktop version  
+[Desmos](https://www.desmos.com/calculator) :c-web: :c-proprietary: - Online graphing calculator
 
 ## File management
 [Files](https://files.community/) :c-windows: - File explorer that improves upon Windows's original file explorer  
@@ -483,8 +492,8 @@ Those are applications and resources that their functionality is directred relat
 
 [Total Commander](https://www.ghisler.com/) :c-windows: :c-proprietary: - File manager known for its powerful file removal tool.
 
-[hydrus network](https://hydrusnetwork.github.io/hydrus/) :c-pc: :c-selfhostable: - Local booru-ish repository that can be selfhosted  
-[Szurubooru](https://github.com/rr-/szurubooru) :c-selfhostable: - Exclusively selfhostable booru repositoru
+[hydrus network](https://hydrusnetwork.github.io/hydrus/) :c-pc: :c-selfhost: - Local booru-ish repository that can be selfhosted  
+[Szurubooru](https://github.com/rr-/szurubooru) :c-selfhost: - Exclusively selfhostable booru repositoru
 
 ### Archive managers
 
@@ -506,7 +515,7 @@ Those are applications and resources that their functionality is directred relat
 ## Media management
 ### Content downloader
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
-[Cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
+[cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
 [Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos and other social medias  
 [Seal](https://github.com/JunkFood02/Seal) :c-android: - Mobile application to download videos from YouTube and other social medias
 
@@ -595,8 +604,8 @@ Merged entries:
 
 ## Custom icons
 :c-pc: `:c-pc:` - Runs on all PC platforms  
-:c-mobile: `:c-mobile` - Runs on all mobile platforms  
-:c-web: `:c-web` - Runs on all browsers  
+:c-mobile: `:c-mobile:` - Runs on all mobile platforms  
+:c-web: `:c-web:` - Runs on all browsers  
 :c-console: `:c-console:` - Runs on a console  
 :c-vr: `:c-vr:` - Avaiable on VR consoles  
 :c-selfhost: `:c-selfhost:` - The service is selfhostable  
