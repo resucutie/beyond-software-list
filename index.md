@@ -200,15 +200,21 @@
 
 # Privacy and Security
 ## Ad blockers
+### Applications
+[AdAway](https://adaway.org/) :c-android: - Ad blocker for Android that uses hosts files and can either be used with or without root  
+[PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
+
+### DNS
+[NextDNS](https://nextdns.io/) :c-selfhostable: - Very customizable DNS ad blocking service
+
+### Extensions
 [uBlock Origin](https://github.com/gorhill/uBlock) :c-extension: - Open source community made adblocker
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Collection of filters for blocking mining, pop-ups and anti-adblock bypass.
 - [iploggerfilter](https://github.com/piperun/iploggerfilter) - Filters for websites whose only purpose is to log IP addresses
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
 - [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/does-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
 
-[AdAway](https://adaway.org/) :c-android: - Ad blocker for Android that uses hosts files and can either be used with or without root  
-[PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
-
+### Netwrok-wide blocking
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
 
 ## Malware analysis and removal tools
