@@ -554,6 +554,8 @@ Those are applications and resources that their functionality is directred relat
 [LocalSend](https://localsend.org/) :c-pc: :c-mobile: - Open source replacement for AirDrop that works on your local network   
 [Syncting](https://syncthing.net/) :c-pc: :c-android: - Real-time continuous file synchronization program
 
+[Gadgetbridge](https://gadgetbridge.org/) :c-android: - Allows pairing various gadgets such as smart watches, bands, headphones and more
+
 ## Torrenting
 [Transmission](https://transmissionbt.com/) :c-pc: - Easy to use Bittorrent client with a simple interface  
 [qBittorrent](https://www.qbittorrent.org/) :c-pc: - Feature rich Bittorrent client with µTorrent-like User Interface
