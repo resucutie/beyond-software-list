@@ -480,7 +480,7 @@ Those are applications and resources that their functionality is directred relat
 [Qalculate!](https://qalculate.github.io/) :c-pc: - Open source powerful scientific calcuator
 
 [GeoGebra](https://www.geogebra.org/) :c-web: :c-pc: - Advanced graphing calculator with a desktop version  
-[Desmos](https://www.desmos.com/calculator) :c-web: :c-proprietary: - Online graphing calculator
+[Desmos](https://www.desmos.com/calculator) :c-web: :c-proprietary: - Online graphing calculator with educational purposes
 
 ## File management
 [Files](https://files.community/) :c-windows: - File explorer that improves upon Windows's original file explorer  
