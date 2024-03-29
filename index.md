@@ -77,8 +77,6 @@
 [Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system using containers.  
 [Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
 
-[KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - FOSS compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME
-
 ## Emulators
 ### Any/Multiple
 [RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines  
@@ -459,6 +457,12 @@ Those are applications and resources that their functionality is directred relat
 [TronScript](https://github.com/bmrf/tron) :c-windows: - Most efficient and automated cleaning and disinfection tool for Windows  
 [SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
 - [SophiApp](https://github.com/Sophia-Community/SophiApp) :c-windows: - Graphical version of SophiaScript
+
+### Old systems
+[Legacy Update](https://legacyupdate.net/) :c-windows: - Returns the functionality of Windows Update to old Windows versions
+
+[KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - Compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME  
+[VxKex](https://github.com/vxiiduu/VxKex) :c-windows: :c-proprietary: - Compatibility layer for Windows 7 to run programs only support Windows 8 and above
 
 ### Uninstallers
 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :c-windows: - Uninstalls apps in bulk
