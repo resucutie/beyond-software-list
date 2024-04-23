@@ -191,6 +191,9 @@
 [VirtualBox](https://www.virtualbox.org/) :c-pc: - Cross platform virtualization tool  
 [QEMU](https://www.qemu.org/) :c-pc: :c-cli: - Command-line generic and open source machine emulator and virtualizer
 - [virt-manager](https://virt-manager.org/) :c-linux: - Linux frontend for QEMU
+###### NO-PARAGRAPH
+[VMWare Workstation Player](https://www.vmware.com/products/workstation-player.html) :c-windows: :c-linux: :c-proprietary: | [VMWare Workstation Pro](https://www.vmware.com/products/workstation-pro.html) :c-windows: :c-linux: :c-proprietary: :c-paid: - Feature-full virtaulization solution that's industry standard  
+[Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) :c-windows: :c-proprietary: - Microsoft's own virtualization solution, may be faster than any of the other options
 
 [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/) :c-windows: - Executes Linux systems inside Windows.  
 [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/) :c-windows: - Android counterpart of Windows Subsystem for Linux.  
