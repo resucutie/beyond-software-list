@@ -209,7 +209,7 @@
 [PowerTunnel](https://github.com/krlvm/PowerTunnel) :c-pc: :c-android: - Desktop and Android extensible proxy server. Includes adblocking and anti-censorship tool
 
 ### DNS
-[NextDNS](https://nextdns.io/) :c-selfhostable: - Very customizable DNS ad blocking service
+[NextDNS](https://nextdns.io/) :c-selfhost: - Very customizable DNS ad blocking service
 
 ### Extensions
 [uBlock Origin](https://github.com/gorhill/uBlock) :c-extension: - Open source community made adblocker
@@ -237,13 +237,17 @@
 
 [Have I Been Pwned?](https://haveibeenpwned.com/) :c-web: - Website to check if your email or password was leaked
 
-## VPN
+## Proxy/VPN
 ### Providers
 [Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-freemium: - Well known and trusted VPN provider  
 [Mullvad VPN](https://mullvad.net/) :c-pc: :c-mobile: :c-paid: - Secure VPN provider that includes an annoymous signing-in and billing service
 
+### Selfhosting
+[WireGuard](https://www.wireguard.com/) :c-selfhost: - Fast and secure selfhostable VPN provider
+
 ### Clients
-[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) :c-android: - VPN client that supports many VPN/proxy protocols
+[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid) :c-android: - VPN client that supports many VPN/proxy protocols  
+[overtls](https://github.com/ShadowsocksR-Live/overtls) :c-android: - Proxy client that can bypass China's Great Firewall
 
 ## Others
 [ClearURLs](https://clearurls.xyz/) :c-extension: - Automatically remove tracking elements from URLs
