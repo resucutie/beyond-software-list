@@ -24,7 +24,7 @@
 [notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
 
 ### Snapchat
-[SnapEnhance](https://github.com/rhunk/SnapEnhance) :c-android: - Mod for Snapchat. **Will require LSPosed/LSPatch**
+[SnapEnhance](https://github.com/rhunk/SnapEnhance) :c-android: - Mod for Snapchat. **Will require LSPosed/NPatch**
 
 ### Spotify
 [Spicetify](https://spicetify.app/) :c-pc: - Multiplatform command-line tool to customize Spotify  
