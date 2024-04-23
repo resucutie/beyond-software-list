@@ -3,8 +3,8 @@
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
 --Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
 
-[LSPosed](https://github.com/LSPosed/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of Xposed
-- [LSPatch](https://github.com/LSPosed/LSPatch) :c-android: - Rootless implementation of LSPosed that directly patches APKs
+[LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of LSPosed, which is based on Xposed
+- [NPatch](https://github.com/HSSkyBoy/NPatch) :c-android: - Rootless implementation of LSPosed that directly patches APKs
 
 ### Discord
 [Vencord](https://vencord.dev/) :c-extension: :c-pc: - A regex patch based Discord desktop client mod. Most plugins come built in  
@@ -39,7 +39,8 @@
 --Note: Not all software in there may be trustable. Please pay attention.--
 
 [Nekogram](https://nekogram.app/) :c-android: - Open-source third-party Telegram client with few but useful mods  
-[exteraGram](https://github.com/exteraSquad/exteraGram) :c-android: - User friendly Telegram client that contains a lot of visual examples (add note to install the beta versions as it is more up to date)
+<!-- [exteraGram](https://github.com/exteraSquad/exteraGram) :c-android: - User friendly Telegram client that contains a lot of visual examples (add note to install the beta versions as it is more up to date) -->
+<!-- decided to comment exteraGram after allegations of closed sourcing the client because of "code stealing" https://media.discordapp.net/attachments/671483069189980191/1232441655920037931/image.png?ex=6629783c&is=662826bc&hm=a141e6e8e9b4d360132e40fdb76e0042ee0ae5e7671975bf4dab951ec76aa0a5&=&format=webp&quality=lossless. for the exteraGram devs, please do a DMCA, not a complete lockdown, it removes trust and it can indicate bad intentions (such as closing the source code to put malicious code in the product)-->
 
 [Unigram](https://github.com/UnigramDev/Unigram) :c-windows: - [Fluent](https://fluent2.microsoft.design/) design compliant Telegram client  
 [materialgram](https://github.com/kukuruzka165/materialgram) :c-pc: - Material-like Telegram Client
