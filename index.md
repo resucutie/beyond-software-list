@@ -472,6 +472,11 @@ Those are applications and resources that their functionality is directred relat
 [SophiaScript](https://github.com/farag2/Sophia-Script-for-Windows) :c-windows: - Powershell script that contains more than 150 functions
 - [SophiApp](https://github.com/Sophia-Community/SophiApp) :c-windows: - Graphical version of SophiaScript
 
+### Deep modifications
+[AME Wizard](https://ameliorated.io/) :c-windows: - Tool that applies heavy modifications to Windows with the aim to provide a complete
+- [AtlasOS](https://atlasos.net/) - Modification of Windows to improve perfomance and network usage of the system
+- [ReviOS](https://www.revi.cc/) - Modification of Windows focused on perfomance and privacy
+
 ### Old systems
 [Legacy Update](https://legacyupdate.net/) :c-windows: - Returns the functionality of Windows Update to old Windows versions
 
