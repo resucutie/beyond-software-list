@@ -73,8 +73,10 @@
 # Compatibility and Emulation
 ## Compatibility layers
 [Wine](https://www.winehq.org/) :c-macos: :c-linux: :c-android: - Compatibility layer to run Windows programs on Linux and other POSIX systems. Compatibility isn't perfect and unwanted behavior is expected, and it is recommended to search for alternatives to already exisitng programs than to run them under Wine
+- [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) :c-linux: - Fork of Wine made by GloriousEggroll  
 - [Bottles](https://usebottles.com/) :c-linux: - Frontend to help set up Wine
 - Proton :c-linux: - Tool that bundles Wine and other utilities to run games on Linux. It is bundled with Steam but requires it to be [activated inside Steam's client](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
+    - [Proton-GE](https://heroicgameslauncher.com/) :c-linux: - Fork of Proton by GloriousEggroll that adds improvements over its counterpart
     - [Heroic Games Launcher](https://heroicgameslauncher.com/) :c-pc: - Third party Epic Games, GOG and Amazon Games launcher that uses Proton for Linux compatibility, but is avaiable on all desktop platforms
 
 [Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system using containers.  
