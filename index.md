@@ -524,6 +524,8 @@ Those are applications and resources that their functionality is directred relat
 [hydrus network](https://hydrusnetwork.github.io/hydrus/) :c-pc: :c-selfhost: - Local booru-ish repository that can be selfhosted  
 [Szurubooru](https://github.com/rr-/szurubooru) :c-selfhost: - Exclusively selfhostable booru repositoru
 
+[Everything](https://www.voidtools.com/) :c-windows: - Quick and powerful file search tool
+
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
