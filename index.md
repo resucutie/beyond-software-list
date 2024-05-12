@@ -63,7 +63,8 @@
 
 [MultiMC](https://multimc.org/) :c-pc: - Minecraft launcher client that allows launching multiple isolated Minecraft instances and managing mods  
 [Prism Launcher](https://prismlauncher.org/) :c-pc: - Fork of MultiMC that adds enhanced features and more customization options  
-[Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices
+[Betacraft Launhcer](https://betacraft.uk/) :c-pc: - Launcher that aims to provide back legacy versions support, as well as archiving old versions of the game  
+[Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices  
 
 [Chunk Base](https://www.chunkbase.com/) :c-web: - Tool for finding terrain features
 
