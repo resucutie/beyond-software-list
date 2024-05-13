@@ -78,7 +78,7 @@
 - [Bottles](https://usebottles.com/) :c-linux: - Frontend to help set up Wine
 - Proton :c-linux: - Tool that bundles Wine and other utilities to run games on Linux. It is bundled with Steam but requires it to be [activated inside Steam's client](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
     - [Proton-GE](https://heroicgameslauncher.com/) :c-linux: - Fork of Proton by GloriousEggroll that adds improvements over its counterpart
-    - [Heroic Games Launcher](https://heroicgameslauncher.com/) :c-pc: - Third party Epic Games, GOG and Amazon Games launcher that uses Proton for Linux compatibility, but is avaiable on all desktop platforms
+    - [Heroic Games Launcher](https://heroicgameslauncher.com/) :c-pc: - Third party Epic Games, GOG and Amazon Games launcher that uses Proton for Linux compatibility, but is available on all desktop platforms
 
 [Distrobox](https://distrobox.it/) :c-linux: - Tool to install any linux distro inside a linux system using containers.  
 [Waydroid](https://waydro.id/) :c-linux: - Container-based approach to boot a full Android system inside a Linux system with the Wayland display protocol.  
@@ -147,7 +147,7 @@
 [Lime3DS](https://github.com/Lime3DS) :c-pc: :c-android: - 3DS emulator that continues Citra's legacy  
 [PabloMK7's Citra fork](https://github.com/PabloMK7/citra) :c-pc: :c-android: - 3DS emulator, forked from Citra originally to add online play but with the discontinuation of Citra it has been getting more features  
 
-[Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator avaiable.  
+[Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator available.  
 [Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu, although not as advanced as the counterpart.
 
 [Ryujinx](https://ryujinx.org/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance  
@@ -167,20 +167,20 @@
 
 [Vita3k](https://vita3k.org/) :c-pc: :c-android: - PSVita's most compatible emulator
 
---Note: The avaiable [PS4](https://emulation.gametechwiki.com/index.php/PlayStation_4_emulators) and [PS5](https://emulation.gametechwiki.com/index.php/PlayStation_5_emulators) emulators are far from playable yet. Please do not try those--
+--Note: The available [PS4](https://emulation.gametechwiki.com/index.php/PlayStation_4_emulators) and [PS5](https://emulation.gametechwiki.com/index.php/PlayStation_5_emulators) emulators are far from playable yet. Please do not try those--
 
 ### Sega
 [Emulicious](https://emulicious.net/) :c-pc: - Multi system emulator that can emulate the Master System, Game Gear and Sega Genesis
 
 [BlastEm](https://www.retrodev.com/blastem/) :c-pc: - Sega Genesis emulator focused on high accuracy and perfomance
 
-[Mednafen](https://mednafen.github.io/) :c-windows: :c-linux: - Multi system emulator that has Sega Saturn emulation. [Packages are avaiable for Linux systems](https://pkgs.org/download/mednafen)
+[Mednafen](https://mednafen.github.io/) :c-windows: :c-linux: - Multi system emulator that has Sega Saturn emulation. [Packages are available for Linux systems](https://pkgs.org/download/mednafen)
 
 [Flycast](https://github.com/flyinghead/flycast) :c-pc: :c-mobile: :c-console: - Open source Dreamcast emulator that also has a great compatibility with its arcade variants  
 [Redream](https://redream.io/) :c-pc: :c-android: :c-freemium: :c-proprietary: - Easy to use Dreamcast emulator, although proprietary. Contains less features than Flycast
 
 ### Xbox
-[xemu](https://xemu.app/) :c-pc: - Most accurate Xbox OG emulator avaiable
+[xemu](https://xemu.app/) :c-pc: - Most accurate Xbox OG emulator available
 
 [Xenia](https://github.com/xenia-project/xenia) :c-windows: - Xbox 360 emulator
 
@@ -306,7 +306,7 @@
 [K-9 Mail](https://k9mail.app/) :c-android: | [FairEmail](https://github.com/M66B/FairEmail) :c-android: - Android email clients.
 
 ## E-readers
-[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are avaiable on their readme  
+[Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are available on their readme  
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
 
@@ -529,7 +529,7 @@ Those are applications and resources that their functionality is directred relat
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
---Note: There are CLI based programs for Mac and Linux, but the GUI version is only avaiable on Windows--  
+--Note: There are CLI based programs for Mac and Linux, but the GUI version is only available on Windows--  
 [Ark](https://apps.kde.org/ark/) :c-linux: | [GNOME Archive Manager](https://wiki.gnome.org/Apps/FileRoller) :c-linux: - Archive managers for Linux
 
 ## Lists and resources
@@ -605,17 +605,17 @@ For contributing, you can always make a Pull Request on [this file](https://gith
 - All entries should contain programs where the user has total control over it and are virus-free. Preferably Free and Open Source applications
 - Each entry should follow the following format:
     - Name of the product as a link (`[Product](link)`)
-    - Row of [custom icons](#custom-icons) showing the avaiable icons (if it contains) in the following order:
+    - Row of [custom icons](#custom-icons) showing the available icons (if it contains) in the following order:
         - Web :c-chrome: :c-firefox:
-            - If avaiable on all platforms: :c-web:
-            - If it is avaiable as a browser extension: :c-extension:
+            - If available on all platforms: :c-web:
+            - If it is available as a browser extension: :c-extension:
         - Desktop :c-windows: :c-macos: :c-linux:
-            - If avaiable on all platforms: :c-pc:
+            - If available on all platforms: :c-pc:
         - Mobile :c-android: :c-ios:
-            - If avaiable on all platforms: :c-mobile:
+            - If available on all platforms: :c-mobile:
         - Console :c-console:
         - TV Boxes :c-roku: :c-tvos:
-            - If avaiable on all platforms: :c-tvbox:
+            - If available on all platforms: :c-tvbox:
         - VR :c-vr:
         - Selfhostable service :c-selfhost:
         - Source code avaiability :c-proprietary:
@@ -640,18 +640,18 @@ Merged entries:
 :c-mobile: `:c-mobile:` - Runs on all mobile platforms  
 :c-web: `:c-web:` - Runs on all browsers  
 :c-console: `:c-console:` - Runs on a console  
-:c-vr: `:c-vr:` - Avaiable on VR consoles  
+:c-vr: `:c-vr:` - Available on VR consoles  
 :c-selfhost: `:c-selfhost:` - The service is selfhostable  
 :c-android: `:c-android:` - Runs on Android  
 :c-ios: `:c-ios:` - Runs on iOS  
-:c-tvbox: `:c-tvbox:` - Avaiable on most smart TV box platforms  
+:c-tvbox: `:c-tvbox:` - Available on most smart TV box platforms  
 :c-roku: `:c-roku:` - Supports Roku TV  
 :c-tvos: `:c-tvos:` - Supports Apple TV  
 :c-windows: `:c-windows:` - Runs on Windows  
 :c-macos: `:c-macos:` - Runs on MacOS  
 :c-linux: `:c-linux:` - Runs on Linux  
 :c-cli: `:c-cli:` - Is a command line only application  
-:c-extension: `:c-extension:` - Is avaiable as a browser extension  
+:c-extension: `:c-extension:` - Is available as a browser extension  
 :c-chrome: `:c-chrome:` - Runs on Chrome  
 :c-firefox: `:c-firefox:` - Runs on Firefox  
 :c-proprietary: `:c-proprietary:` - Is proprietary  
