@@ -16,8 +16,8 @@
 - Adding an issue requesting a new entry
 - (preferred) Change [index.md](index.md) and make a Pull Request
 
-Check the guidelines first [avaiable on the webpage](https://beyondsoftware.info/#guidelines) or [directly at the file](index.md#guidelines).  
-The whole list of software is avaiable at [/public/assets/index.md](/public/assets/index.md).
+Check the guidelines first [available on the webpage](https://beyondsoftware.info/#guidelines) or [directly at the file](index.md#guidelines).  
+The whole list of software is available at [/public/assets/index.md](/public/assets/index.md).
 
 **Please delete your forks after merging with the main repo. This is to prevent outdated information to be out in the wild**
 
