@@ -224,7 +224,7 @@
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
 - [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/does-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
 
-### Netwrok-wide blocking
+### Network-wide blocking
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
 
 ## Malware analysis and removal tools
@@ -269,6 +269,8 @@
 
 [Terms of Service; Didn't read](https://tosdr.org/) :c-extension: :c-resource: - Resource to get a quick summary on terms of service, as well as an overall privacy and user freedom score
 
+[Tailscale](https://tailscale.com/) :c-pc: :c-mobile: :c-freemium: - Zero-config WireGuard VPN to remotely access a device's services anywhere, with a dedicated web SSH client for devices advertising as Tailscale SSH available, can also advertise as an 'Exit Node' on some devices to route internet traffic through said Exit Node.
+
 
 
 
@@ -309,6 +311,7 @@
 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are available on their readme  
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
+[Calibre](https://calibre-ebook.com/) :c-selfhost: :c-pc: - E-Book collection manager, metadata editor, e-book editor, e-book viewer (with integrated web server for viewer), news/magazine downloader with built-in backups. Some e-reading apps also include the ability to connect to the web server for viewing content.
 
 ## Image creation
 [GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
