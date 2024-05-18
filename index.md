@@ -222,7 +222,6 @@
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Collection of filters for blocking mining, pop-ups and anti-adblock bypass.
 - [iploggerfilter](https://github.com/piperun/iploggerfilter) - Filters for websites whose only purpose is to log IP addresses
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
-- [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/does-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
 
 ### Network-wide blocking
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
