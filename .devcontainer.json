@@ -1,0 +1,14 @@
+{
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "resucutie/beyond-software-list": {
+                    "permissions": {
+                        "pull_requests": "write"
+                    }
+                }
+            }
+        }
+    }
+}
+    
