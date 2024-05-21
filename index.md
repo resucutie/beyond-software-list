@@ -247,8 +247,6 @@
 [Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-freemium: - Well known and trusted VPN provider  
 [Mullvad VPN](https://mullvad.net/) :c-pc: :c-mobile: :c-paid: - Secure VPN provider that includes an annoymous signing-in and billing service
 
-[Tailscale](https://tailscale.com/) :c-pc: :c-mobile: :c-freemium: - Highly customizable WireGuard VPN provider.
-
 ### Selfhosting
 [WireGuard](https://www.wireguard.com/) :c-selfhost: - Fast and secure selfhostable VPN provider
 
