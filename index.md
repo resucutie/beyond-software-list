@@ -310,7 +310,7 @@
 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are available on their readme  
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
 [Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS  
-[calibre](https://calibre-ebook.com/) :c-pc: :c-selfhost: - E-Book collection manager, viewer and editor. Some e-reading apps also include the ability to view content from a web server.
+[calibre](https://calibre-ebook.com/) :c-pc: :c-selfhost: - E-Book collection manager, viewer, content server and editor. Some e-reading apps also include the ability to view content from calibre's embedded content server.
 
 ## Image creation
 [GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
