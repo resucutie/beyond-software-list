@@ -222,9 +222,8 @@
 - [fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock) - Collection of filters for blocking mining, pop-ups and anti-adblock bypass.
 - [iploggerfilter](https://github.com/piperun/iploggerfilter) - Filters for websites whose only purpose is to log IP addresses
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
-- [Does uBO Bypass YouTube's anti-adblock?](https://drhyperion451.github.io/does-uBO-bypass-yt/) :c-web: - Checks if uBlock filters are bypassing YouTube anti-adblocker
 
-### Netwrok-wide blocking
+### Network-wide blocking
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
 
 ## Malware analysis and removal tools
@@ -272,6 +271,7 @@
 
 
 
+
 # Productivity and Leisure
 ## 3D Modeling
 [Blender](https://www.blender.org/) :c-pc: - Free and open source 3D creation suite
@@ -308,7 +308,8 @@
 ## E-readers
 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) :c-selfhost: - Manga reader server that runs extensions built for Tachiyomi. Clients are available on their readme  
 [Kotatsu](https://github.com/KotatsuApp/Kotatsu) :c-android: | [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) :c-android: | [Neko](https://github.com/nekomangaorg/Neko) :c-android: | [Mihon](https://mihon.app/) :c-android: - Android manga readers. TachiyomiSY, Neko and Mihon are forks of [Tachiyomi](https://tachiyomi.org/)  
-[Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS
+[Paperback](https://paperback.moe/) :c-ios: - Ad-free Manga reader for iOS  
+[calibre](https://calibre-ebook.com/) :c-pc: :c-selfhost: - E-Book collection manager, viewer, content server and editor. Some e-reading apps also include the ability to view content from calibre's embedded content server.
 
 ## Image creation
 [GIMP](https://www.gimp.org/) :c-pc: - Open source powerful image editor
