@@ -247,6 +247,8 @@
 [Proton VPN](https://protonvpn.com/) :c-pc: :c-mobile: :c-freemium: - Well known and trusted VPN provider  
 [Mullvad VPN](https://mullvad.net/) :c-pc: :c-mobile: :c-paid: - Secure VPN provider that includes an annoymous signing-in and billing service
 
+[Tailscale](https://tailscale.com/) :c-pc: :c-mobile: :c-freemium: - Highly customizable WireGuard VPN provider.
+
 ### Selfhosting
 [WireGuard](https://www.wireguard.com/) :c-selfhost: - Fast and secure selfhostable VPN provider
 
@@ -268,7 +270,6 @@
 
 [Terms of Service; Didn't read](https://tosdr.org/) :c-extension: :c-resource: - Resource to get a quick summary on terms of service, as well as an overall privacy and user freedom score
 
-[Tailscale](https://tailscale.com/) :c-pc: :c-mobile: :c-freemium: - Zero-config WireGuard VPN to remotely access a device's services anywhere, with a dedicated web SSH client for devices advertising as Tailscale SSH available, can also advertise as an 'Exit Node' on some devices to route internet traffic through said Exit Node.
 
 
 
