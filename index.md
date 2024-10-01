@@ -23,6 +23,9 @@
 ### Notion
 [notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
 
+### Signal
+[Molly](https://molly.im/) :c-android: - Privacy focused fork of Signal.
+
 ### Snapchat
 [SnapEnhance](https://github.com/rhunk/SnapEnhance) :c-android: - Mod for Snapchat. **Will require LSPosed/NPatch**
 
