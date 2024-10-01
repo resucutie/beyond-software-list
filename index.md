@@ -3,7 +3,7 @@
 [ReVanced](https://revanced.app) :c-android: - Application that can apply various patches to numerous android apps including YouTube and TikTok. Spiritual successor to Vanced  
 --Note: It requires the need of a microG client for YouTube and YouTube music if your device does not have root access. At the moment, the most compatible microG manager with ReVanced, according to the community, is [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG)--  
 
-[LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Maintained fork of LSPosed, which is based on Xposed
+[LSPosed](https://github.com/JingMatrix/LSPosed) :c-android: - Framework that can modify the behavior of the system and apps directly from its source code. Note that this is a fork of the [original LSPosed](https://github.com/LSPosed/LSPosed).
 - [NPatch](https://github.com/HSSkyBoy/NPatch) :c-android: - Rootless implementation of LSPosed that directly patches APKs
 
 ### Discord
