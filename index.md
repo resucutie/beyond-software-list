@@ -153,7 +153,7 @@
 [Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator available.  
 [Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu, although not as advanced as the counterpart.
 
-[GreemDev's fork of Ryujinx](https://github.com/GreemDev/Ryujinx/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance  
+[GreemDev's fork of Ryujinx](https://github.com/GreemDev/Ryujinx/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance. The original emulator got taken down due to legal issues with Nintendo, but forks are still providing basic maintainance  
 [Suyu](https://git.suyu.dev/suyu/suyu) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator, fork of Yuzu. Requires extraction of keys from a real Switch system  
 
 ### PlayStation
