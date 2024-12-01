@@ -491,7 +491,7 @@ Those are applications and resources that their functionality is directred relat
 [Legacy Update](https://legacyupdate.net/) :c-windows: - Returns the functionality of Windows Update to old Windows versions
 
 [KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - Compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME  
-[VxKex](https://github.com/i486/VxKex/releases/tag/Version1.1.1.1375) :c-windows: :c-proprietary: - Compatibility layer for Windows 7 to run programs only support Windows 8 and above. **NOTE: THIS IS A REUPLOAD. THE ORIGINAL OWNER GOT BANNED FROM GITHUB AND THEREFORE CANNOT MANTAIN IT**
+[VxKex](https://github.com/i486/VxKex/releases/tag/Version1.1.1.1375) :c-windows: - Compatibility layer for Windows 7 to run programs only support Windows 8 and above. It is no longer maintained, but is still functional
 
 ### Uninstallers
 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :c-windows: - Uninstalls apps in bulk
