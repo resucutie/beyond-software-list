@@ -153,8 +153,8 @@
 [Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator available.  
 [Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu, although not as advanced as the counterpart.
 
-[Ryujinx](https://ryujinx.org/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance  
-[Suyu](https://git.suyu.dev/suyu/suyu) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator, fork of Yuzu. Requires extraction of keys from a real Switch system  
+[Suyu](https://suyu.dev/) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator, fork of Yuzu. Requires extraction of keys from a real Switch system  
+[GreemDev's fork of Ryujinx](https://github.com/GreemDev/Ryujinx/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance. The original emulator got taken down due to legal issues with Nintendo, but forks are still providing basic maintainance  
 
 ### PlayStation
 [DuckStation](https://www.duckstation.org/) :c-pc: :c-android: :c-console: - PlayStation emulator that contains advanced features and easy to use interface
@@ -491,7 +491,7 @@ Those are applications and resources that their functionality is directred relat
 [Legacy Update](https://legacyupdate.net/) :c-windows: - Returns the functionality of Windows Update to old Windows versions
 
 [KernelEx](https://sourceforge.net/projects/kernelex/) :c-windows: - Compatibility layer that aims to run Windows 2000 or XP-only applications on Windows 98 or ME  
-[VxKex](https://github.com/i486/VxKex/releases/tag/Version1.1.1.1375) :c-windows: :c-proprietary: - Compatibility layer for Windows 7 to run programs only support Windows 8 and above. **NOTE: THIS IS A REUPLOAD. THE ORIGINAL OWNER DELETED THE PROJECT AND IS NO LONGER MAINTAINING IT**
+[VxKex](https://github.com/i486/VxKex/releases/tag/Version1.1.1.1375) :c-windows: - Compatibility layer for Windows 7 to run programs only support Windows 8 and above. It is no longer maintained, but is still functional
 
 ### Uninstallers
 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) :c-windows: - Uninstalls apps in bulk
@@ -595,7 +595,7 @@ Those are applications and resources that their functionality is directred relat
 # Contributing to this list
 This section includes information on how you can contribute to this list
 
-For contributing, you can always make a Pull Request on [this file](https://github.com/abUwUser/beyond-software/blob/master/public/assets/index.md). It is recommended to not use GitHub's built in editor, and to instead download the files locally using Git. We assume that you know the basics of [Git](https://docs.github.com/en/get-started/getting-started-with-git) and [contributing on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
+For contributing, you can always make a Pull Request on [this file](https://github.com/resucutie/beyond-software-list/blob/master/index.md). It is recommended to not use GitHub's built in editor, and to instead download the files locally using Git. We assume that you know the basics of [Git](https://docs.github.com/en/get-started/getting-started-with-git) and [contributing on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 ## Sections in need for contributions
 [System resources > Consoles (Homebrew)](#consoles-homebrew) - Needs more guides  
