@@ -147,14 +147,12 @@
 ###### NO-PARAGRAPH
 [Nintendon't](https://github.com/FIX94/Nintendont) :c-console: - Compatibility layer for running GameCube games on the Wii and Wii U from the Wii's built in compatibility with GameCube systems
 
-[Lime3DS](https://github.com/Lime3DS) :c-pc: :c-android: - 3DS emulator that continues Citra's legacy  
-[PabloMK7's Citra fork](https://github.com/PabloMK7/citra) :c-pc: :c-android: - 3DS emulator, forked from Citra originally to add online play but with the discontinuation of Citra it has been getting more features  
+[Azahar](https://github.com/azahar-emu/azahar) :c-pc: :c-android: - 3DS emulator based on Citra 
 
 [Cemu](https://cemu.info/) :c-pc: - Most accurate Wii U Emulator available.  
 [Decaf](https://github.com/decaf-emu/decaf-emu) :c-windows: :c-linux: - Alternative to Cemu, although not as advanced as the counterpart.
 
-[Suyu](https://suyu.dev/) :c-windows: :c-linux: :c-android: - Experimental open-source Nintendo Switch emulator, fork of Yuzu. Requires extraction of keys from a real Switch system  
-[GreemDev's fork of Ryujinx](https://github.com/GreemDev/Ryujinx/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance. The original emulator got taken down due to legal issues with Nintendo, but forks are still providing basic maintainance  
+[GreemDev's fork of Ryujinx](https://git.ryujinx.app/ryubing/ryujinx/) :c-pc: - Nintendo Switch emulator that aims to provide perfomance. The original emulator got taken down due to legal issues with Nintendo, but forks are still providing basic maintainance  
 
 ### PlayStation
 [DuckStation](https://www.duckstation.org/) :c-pc: :c-android: :c-console: - PlayStation emulator that contains advanced features and easy to use interface
