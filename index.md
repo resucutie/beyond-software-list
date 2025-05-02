@@ -66,6 +66,7 @@
 
 [MultiMC](https://multimc.org/) :c-pc: - Minecraft launcher client that allows launching multiple isolated Minecraft instances and managing mods  
 [Prism Launcher](https://prismlauncher.org/) :c-pc: - Fork of MultiMC that adds enhanced features and more customization options  
+[Freesm Launcher](https://website-freesmlauncher.vercel.app/en) :c-pc: - Fork of Prism Launcher that allows to use Offline Mode without having to add Minecraft Account. Also adds some additional customization  
 [Betacraft Launhcer](https://betacraft.uk/) :c-pc: - Launcher that aims to provide back legacy versions support, as well as archiving old versions of the game  
 [Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices  
 
