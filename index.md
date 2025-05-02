@@ -548,7 +548,8 @@ Those are applications and resources that their functionality is directred relat
 [AlternativeTo](https://alternativeto.net/) :c-resource: - Find alternatives to applications  
 [Open Source Alternative To](https://www.opensourcealternative.to/) :c-resource: - Find open source alternatives to applications
 
-[Ripped](https://ripped.guide/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
+[FMHY](https://fmhy.pages.dev/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
+[Ripped](https://ripped.guide/) :c-resource: - A collection of piracy websites with descriptions for each item
 
 ## Keyboard tools
 [AutoHotkey](https://www.autohotkey.com/) :c-windows: - Powerful keyboard script maker
