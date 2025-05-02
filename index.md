@@ -235,8 +235,7 @@
 
 ## Malware analysis and removal tools
 [VirusTotal](https://www.virustotal.com/) :c-web: :c-proprietary: - Website for analyzing virus samples
-[Triage](https://tria.ge/) :c-web: :c-proprietary: - Website creating online VM for virus analysis
-[Any Run](https://app.any.run/) :c-web: :c-proprietary: - Website creating online VM for virus analysis
+[Triage](https://tria.ge/) | [Any Run](https://app.any.run/) :c-web: :c-proprietary: - Website creating online VM for virus analysis
 
 [AdwCleaner](https://www.malwarebytes.com/adwcleaner) :c-windows: :c-proprietary: - Tool to remove adware programs
 
