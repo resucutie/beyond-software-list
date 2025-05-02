@@ -93,6 +93,7 @@
 ## Emulators
 ### Any/Multiple
 [RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines  
+[Lakka](https://www.lakka.tv) :c-web: :c-pc: :c-mobile: :c-console: - Fork of RetroArch allows for Emulation on almost any Hardware can be used as hombrew (For example on Nintendo Switch)
 [MAME](https://wiki.mamedev.org/index.php/SDL_Supported_Platforms) :c-pc: - Multi system emulator with focus on Arcades, although it contains multiple home and portable consoles.  
 [ares](https://ares-emu.net/) :c-pc: - Multi system emulator with a more focus on accuracy and preservation  
 [BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
