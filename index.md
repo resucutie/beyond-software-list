@@ -233,6 +233,7 @@
 
 ### Network-wide blocking
 [Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
+[AdGuard Home](https://adguard.com/en/adguard-home/overview.html) :c-selfhost: - Network-wide ad blocking
 
 ## Malware analysis and removal tools
 [VirusTotal](https://www.virustotal.com/) :c-web: :c-proprietary: - Website for analyzing virus samples
