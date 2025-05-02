@@ -19,6 +19,7 @@
 
 ### Instagram
 [Instander](https://thedise.me/instander/) :c-android: :c-proprietary: - Mod for Instagram
+[InstaFlow](https://instaflow.org/) :c-android: :c-proprietary: - Mod for Instagram, Disable Ads, Allow for reels, stories and photos downloads
 
 ### Notion
 [notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
