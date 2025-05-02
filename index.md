@@ -560,6 +560,7 @@ Those are applications and resources that their functionality is directred relat
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
 [cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
 [Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos and other social medias  
+[ezytdl](https://github.com/sylviiu/ezytdl/)  :c-windows: :c-linux: - Sleek Desktop application for downloading YouTube videos, Spotify Songs and other social medias and has support for Dubs/Subs downloads  
 [Seal](https://github.com/JunkFood02/Seal) :c-android: - Mobile application to download videos from YouTube and other social medias
 
 ### File converter
