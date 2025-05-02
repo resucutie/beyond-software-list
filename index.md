@@ -36,6 +36,8 @@
 
 [xManager](https://www.xmanagerapp.com/) :c-android: - App that installs prepatched versions of Spotify that includes quality of life features
 
+[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) :c-android: - Pre-built App that removes Ads for IOS-based (MacOS/IPhone) version of spotify
+
 [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) :c-pc: - Adblock for Spotify Desktop
 
 ### Telegram
