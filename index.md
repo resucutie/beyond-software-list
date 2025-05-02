@@ -230,7 +230,7 @@
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
 
 ### Network-wide blocking
-[Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
+[Pi-hole](https://pi-hole.net/) :c-selfhost: - The most popular option for DNS ad blocking  
 [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) :c-selfhost: - Network-wide ad blocking with Parental control and per-client filter list possibilities
 
 ## Malware analysis and removal tools
