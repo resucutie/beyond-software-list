@@ -19,6 +19,7 @@
 
 ### Instagram
 [Instander](https://thedise.me/instander/) :c-android: :c-proprietary: - Mod for Instagram
+[InstaFlow](https://instaflow.org/) :c-android: :c-proprietary: - Mod for Instagram, Disable Ads, Allow for reels, stories and photos downloads
 
 ### Notion
 [notion-enhancer](https://notion-enhancer.github.io/) :c-extension: :c-pc: - Enhancer for Notion that includes a bunch of quality of life improvements.
@@ -34,6 +35,8 @@
 [SpotX](https://github.com/SpotX-Official/SpotX) :c-pc: - Spotify mod that includes some out of box enhancements
 
 [xManager](https://www.xmanagerapp.com/) :c-android: - App that installs prepatched versions of Spotify that includes quality of life features
+
+[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) :c-android: - Pre-built App that removes Ads for IOS-based (MacOS/IPhone) version of spotify
 
 [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) :c-pc: - Adblock for Spotify Desktop
 
@@ -66,6 +69,7 @@
 
 [MultiMC](https://multimc.org/) :c-pc: - Minecraft launcher client that allows launching multiple isolated Minecraft instances and managing mods  
 [Prism Launcher](https://prismlauncher.org/) :c-pc: - Fork of MultiMC that adds enhanced features and more customization options  
+[Freesm Launcher](https://website-freesmlauncher.vercel.app/en) :c-pc: - Fork of Prism Launcher that allows to use Offline Mode without having to add Minecraft Account. Also adds some additional customization  
 [Betacraft Launhcer](https://betacraft.uk/) :c-pc: - Launcher that aims to provide back legacy versions support, as well as archiving old versions of the game  
 [Pojav Launcher](https://pojavlauncherteam.github.io/) :c-mobile: - Launcher that can run Minecraft Java on mobile devices  
 
@@ -89,6 +93,7 @@
 ## Emulators
 ### Any/Multiple
 [RetroArch](https://www.retroarch.com/) :c-web: :c-pc: :c-mobile: :c-console: - Frontend for emulators and game engines  
+[Lakka](https://www.lakka.tv) :c-web: :c-pc: :c-mobile: :c-console: - Fork of RetroArch allows for Emulation on almost any Hardware can be used as hombrew (For example on Nintendo Switch)
 [MAME](https://wiki.mamedev.org/index.php/SDL_Supported_Platforms) :c-pc: - Multi system emulator with focus on Arcades, although it contains multiple home and portable consoles.  
 [ares](https://ares-emu.net/) :c-pc: - Multi system emulator with a more focus on accuracy and preservation  
 [BizHawk](https://tasvideos.org/BizHawk) :c-windows: :c-linux: - Multi system emulator with focus on creating [TAS](https://tasvideos.org/Glossary#ToolAssistedSpeedrunTas)  
@@ -225,10 +230,12 @@
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Removes annoying elements from webpages that worseners the user experience
 
 ### Network-wide blocking
-[Pi-hole](https://pi-hole.net/) :c-selfhost: - Network-wide ad blocking
+[Pi-hole](https://pi-hole.net/) :c-selfhost: - The most popular option for DNS ad blocking  
+[AdGuard Home](https://adguard.com/en/adguard-home/overview.html) :c-selfhost: - Network-wide ad blocking with Parental control and per-client filter list possibilities
 
 ## Malware analysis and removal tools
 [VirusTotal](https://www.virustotal.com/) :c-web: :c-proprietary: - Website for analyzing virus samples
+[Triage](https://tria.ge/) | [Any Run](https://app.any.run/) :c-web: :c-proprietary: - Website creating online VM for virus analysis
 
 [AdwCleaner](https://www.malwarebytes.com/adwcleaner) :c-windows: :c-proprietary: - Tool to remove adware programs
 
@@ -538,7 +545,8 @@ Those are applications and resources that their functionality is directred relat
 [AlternativeTo](https://alternativeto.net/) :c-resource: - Find alternatives to applications  
 [Open Source Alternative To](https://www.opensourcealternative.to/) :c-resource: - Find open source alternatives to applications
 
-[Ripped](https://ripped.guide/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
+[FMHY](https://fmhy.pages.dev/) :c-resource: - The biggest collection of websites and programs dedicated for piracy. May contain non-piracy tools as well
+[Ripped](https://ripped.guide/) :c-resource: - A collection of piracy websites with descriptions for each item
 
 ## Keyboard tools
 [AutoHotkey](https://www.autohotkey.com/) :c-windows: - Powerful keyboard script maker
@@ -550,6 +558,7 @@ Those are applications and resources that their functionality is directred relat
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) :c-pc: :c-cli: - Youtube-dl fork that can download videos from YouTube  
 [cobalt](https://cobalt.tools) :c-web: - Online video and audio downloader without ads or annoying features. Supports multiple services, including YouTube and TikTok.  
 [Parabolic](https://nickvision.org/parabolic.html) :c-windows: :c-linux: - Desktop application for downloading YouTube videos and other social medias  
+[ezytdl](https://github.com/sylviiu/ezytdl/)  :c-windows: :c-linux: - Sleek Desktop application for downloading YouTube videos, Spotify Songs and other social medias and has support for Dubs/Subs downloads  
 [Seal](https://github.com/JunkFood02/Seal) :c-android: - Mobile application to download videos from YouTube and other social medias
 
 ### File converter
