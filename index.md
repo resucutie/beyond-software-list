@@ -535,6 +535,8 @@ Those are applications and resources that their functionality is directred relat
 
 [Everything](https://www.voidtools.com/) :c-windows: - Quick and powerful file search tool
 
+[Glim](https://github.com/NeoPanic/Glim) :c-macos: - Open source file viewer and basic text editor for Markdown, diagrams, PDFs, Git diffs and structured data files
+
 ### Archive managers
 
 [7-Zip](https://www.7-zip.org/) :c-windows: - Powerful open source file archive manager clients.  
